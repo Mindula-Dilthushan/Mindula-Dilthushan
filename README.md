@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Developer and Designer
 ### Studying Software Engineer and Cyber Security
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/127708463_1007810086412639_2544311262942272142_o.jpg)
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/my%20pic.webp)
 
 - 😋 Proud to be Rahula. 💙🧡
 - 😋 Admin at Alpha X Software Company
@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 - 😋 I’m currently studying Software Engineer
 - 😋 How to reach me : minduladilthushan1@gmail.com
 
-𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧
+𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 ==>
 
-[![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/linkedin_127px.png)](https://www.linkedin.com/in/mindula-dilthushan-081a11185/)
-[![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/facebook_127px.png)](https://www.facebook.com/minduladilthushan.manamperi)
-[![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/tumblr_127px.png)](https://www.tumblr.com/dashboard)
-[![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/twitter_127px.png)](https://twitter.com/MindulaDilthus8)
-[![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/circle-cropped.png)](https://www.reddit.com/user/Loose_Essay9560)
-[![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/whatsapp_127px.png)](+94764184020)
+[![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/linkedin.png)](https://www.linkedin.com/in/mindula-dilthushan-081a11185/) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/fb.png)](https://www.facebook.com/minduladilthushan.manamperi) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/stack_overflow.png)](https://stackoverflow.com/users/13071002/mindula-dilthushan) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/youtube_play_48px.png)](https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/tumblr_48px.png)](https://www.tumblr.com/dashboard) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/twitter.png)](https://twitter.com/MindulaDilthus8) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/vimeo_48px.png)](https://vimeo.com/user126778787) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/android-icon-48x48.png)](https://www.reddit.com/user/Loose_Essay9560) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/instagram_new_48px.png)](https://www.instagram.com/mindula_dilthushan/) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/whatsapp.png)](+94764184020) [![Mindula](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/telegram_app_48px.png)](+94764184020)
+
+
+
+
+
