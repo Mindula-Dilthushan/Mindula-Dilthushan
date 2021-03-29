@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Developer and Designer
 ### Studying Software Engineer and Cyber Security
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/my%20pic.webp)
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
 - 😋 Proud to be Rahula. 💙🧡
 - 😋 Admin at Alpha X Software Company
