@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan=true alt=Mindula-Dilthushan/> </p>
+[![GitHub](https://github-readme-stats-Mindula-Dilthushan.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Mindula-Dilthushan)
