@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ### Developer and Designer
 ### Studying Software Engineer and Cyber Security
 
+
+![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
+
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
 - 😋 Proud to be Rahula. 💙🧡
