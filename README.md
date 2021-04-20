@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
+
+### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 ### Developer and Designer
 ### Studying Software Engineer and Cyber Security
 
