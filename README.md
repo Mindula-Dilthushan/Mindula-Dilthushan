@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Studying Software Engineer and Cyber Security
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
+#### Profile Views : ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
