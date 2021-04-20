@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
 
-
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/linkedin.png?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
