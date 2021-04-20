@@ -36,14 +36,10 @@ Here are some ideas to get you started:
 <summary> Github Stats</summary>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
-
-<p align="center">![Mindula Dilthushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham)
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=5&theme=gotham" alt="Mindula-Dilthushan | My GitHub Language Stats" /> -->
 
 
-![Mindula Dilthushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham)
+![Mindula Dilthushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=radical)
 
 
 </details>
