@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
--  Proud to be Rahula. 💙🧡
--  Admin at Alpha X Software Company
+
+-  My primary coding language : Java
+-  Founder at Alpha X Software Company
 -  Completed at Cisco Certified Network Associate (CCNA)
--  I’m currently studying Software Engineer
+-  Proud to be Rahula. 💙🧡
 -  How to reach me : minduladilthushan1@gmail.com
+-  Join my [Telegram Channel](https://t.me/alphaxcompany).
 
 
 
@@ -40,11 +42,11 @@ Here are some ideas to get you started:
 
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/linkedin.png?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
-
+[Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
 
 
 
