@@ -35,12 +35,8 @@ Here are some ideas to get you started:
 <details>
 <summary> Github Stats</summary>
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=5&theme=gotham" alt="Mindula-Dilthushan | My GitHub Language Stats" /> -->
-
-
-![Mindula Dilthushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushana&layout=compact&theme=gotham)]()
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=5&theme=gotham" alt="Mindula-Dilthushan | My GitHub Language Stats" />
 
 </details>
 
