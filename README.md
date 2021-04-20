@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 
 
-[<img height="30" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/linkedin.png?" />][linkedin]
+[<img height="30" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/linkedin.png?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
-[linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
+[LinkedIn]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
 
 
 
