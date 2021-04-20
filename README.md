@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
 
-<p align="center"> [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=5&theme=gotham)]() />
+<p align="center"> [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=5&theme=gotham)]()
 
 </details>
 
