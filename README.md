@@ -46,10 +46,14 @@ Here are some ideas to get you started:
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/Facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/Whatsapp-%27ae60.svg?&style=for-the-badge&logo=facebook&logoColor=white">][WhatsApp]
 
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
 [Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
+[Facebook]: https://www.facebook.com/minduladilthushan.manamperi
+[WhatsApp]: https://wa.me/0741900680
 
 
 
