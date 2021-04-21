@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src = "https://img.shields.io/badge/Facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src = "https://img.shields.io/badge/Whatsapp-%27ae60.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
-[<img height="30" src = "https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
+[<img height="30" src = "https://img.shields.io/badge/twitter-1e90ff.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
 [<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
 [<img height="30" src = "https://img.shields.io/badge/tumblr-7158e2.svg?&style=for-the-badge&logo=tumblr&logoColor=white">][Tumblr]
 [<img height="30" src = "https://img.shields.io/badge/reddit-fa8231.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
