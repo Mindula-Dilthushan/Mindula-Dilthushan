@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [<img height="30" src = "https://img.shields.io/badge/reddit-fa8231.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
 [<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 [<img height="30" src = "https://img.shields.io/badge/Dribbble-ef5777.svg?&style=for-the-badge&logo=Dribble&logoColor=white">][Dribble]
-[<img height="30" src = "https://img.shields.io/badge/DEV%20Community-1e272e.svg?&style=for-the-badge&logo=Dev_Community&logoColor=white">][Dev_Community]
+[<img height="30" src = "https://img.shields.io/badge/DEV%20Community-2f3640.svg?&style=for-the-badge&logo=Dev_Community&logoColor=white">][Dev_Community]
 
 
 
