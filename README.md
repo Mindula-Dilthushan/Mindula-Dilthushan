@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 [Reddit]:https://www.reddit.com/user/Loose_Essay9560
 [Telegram]:https://t.me/alphaxcompany
 [Dribble]:https://dribbble.com/minduladilthushan
-[Dev_Community]:https://dev.to/dashboard
+[Dev_Community]:https://dev.to/minduladilthushan
 
 
 
