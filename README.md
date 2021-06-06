@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=5&theme=gotham" alt="Mindula-Dilthushan | My GitHub Language Stats" />
 
 ## GitHub Analytics Visualization 🤖
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai)
 </details>
 
 
