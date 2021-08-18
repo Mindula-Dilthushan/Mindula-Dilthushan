@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 
-<details>
+<!-- <details> -->
 <!-- <summary> Github Stats</summary> -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai)
 
-</details>
+<!-- </details> -->
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
