@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 -  Founder at Alpha X Software Company
 -  My primary coding language : Java
 -  Completed at Cisco Certified Network Associate (CCNA)
+-  Completed at Certificate in Ethical Hacking
+-  Certificate in Python Machine Learning
 -  Proud to be Rahula. 💙🧡
 -  Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
 -  How to reach me : minduladilthushan1@gmail.com
