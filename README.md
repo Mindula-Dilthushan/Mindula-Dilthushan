@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 -  Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
 -  How to reach me : minduladilthushan1@gmail.com
 -  Join my :  
-<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg">
-[Facebook Page](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
+
+[Facebook Page <img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg">](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 [Telegram] [Telegram Channel](https://t.me/alphaxcompany)
 
 
