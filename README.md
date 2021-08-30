@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -  How to reach me : minduladilthushan1@gmail.com
 -  Join my :  
 
-[Facebook Page <img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg">](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
+[Facebook Page { Alpha X Software Company }](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 [Telegram] [Telegram Channel](https://t.me/alphaxcompany)
 
 
