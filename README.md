@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 -  Proud to be Rahula. 💙🧡
 -  Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
 -  How to reach me : minduladilthushan1@gmail.com
--  Join my [Telegram Channel](https://t.me/alphaxcompany).
+-  Join my 
+[Facebook Page](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage).
+[Telegram Channel](https://t.me/alphaxcompany).
+
+
 
 
 
