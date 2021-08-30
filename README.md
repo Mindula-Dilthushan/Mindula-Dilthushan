@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 -  How to reach me : minduladilthushan1@gmail.com
 -  Join my :  
 
-[Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
-[Telegram] [Telegram Channel](https://t.me/alphaxcompany)
+🖥[Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
+🖥[Telegram] [Telegram Channel](https://t.me/alphaxcompany)
 
 
 
