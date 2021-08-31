@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
-### Software Designer and Developer
-
-
+#### Software Designer and Developer 
+#### Ethical Hacker 
 
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
@@ -32,13 +31,11 @@ Here are some ideas to get you started:
 - Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
 - How to reach me : minduladilthushan1@gmail.com
 
+<img align="right" alt="GIF" src="?raw=true" width="500" height="320" />
+
 - 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
-
-
-
-
 
 <details>
 <summary> Github Stats</summary>
