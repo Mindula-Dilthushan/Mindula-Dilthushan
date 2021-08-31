@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
-<details>
-<summary> Github Stats</summary>
+<details> 
+
+<summary> Github Stats </summary>
+
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=5&theme=gotham" alt="Mindula-Dilthushan | My GitHub Language Stats" />
