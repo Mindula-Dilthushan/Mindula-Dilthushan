@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </details>
 
 
-### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆
+### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆 🤖 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
 
