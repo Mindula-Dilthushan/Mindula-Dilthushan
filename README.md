@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 
 
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
-### Developer and Designer
-### Studying Software Engineer and Cyber Security
+### Software Designer and Developer
+
+
 
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
 
--  Founder at Alpha X Software Company
--  My primary coding language : Java
--  Completed at Cisco Certified Network Associate (CCNA)
--  Completed at Certificate in Ethical Hacking
--  Certificate in Python Machine Learning
--  Proud to be Rahula. 💙🧡
--  Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
--  How to reach me : minduladilthushan1@gmail.com
+- Founder at Alpha X Software Company
+- My primary coding language : Java
+- Completed at Cisco Certified Network Associate (CCNA)
+- Completed at Certificate in Ethical Hacking
+- Certificate in Python Machine Learning
+- Proud to be Rahula. 💙🧡
+- Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
+- How to reach me : minduladilthushan1@gmail.com
 
 - 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 
