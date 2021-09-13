@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai)
 
+[![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=soft-green)](https://git.io/streak-stats)
+
 </details>
 
 
