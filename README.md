@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 #### Software Designer and Developer 
 #### Ethical Hacker 
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3DF700&size=22&lines=Software+Designer+and+Software+Developer;Ethical+Hacker)](https://git.io/typing-svg) -->
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
