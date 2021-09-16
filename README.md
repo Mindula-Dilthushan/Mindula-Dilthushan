@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=5&theme=gotham" alt="Mindula-Dilthushan | My GitHub Language Stats" />
+<a href="https://github.com/Mindula-Dilthushan/github-readme-stats"><img alt="Mindula-Dilthushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai)
 
@@ -57,6 +58,7 @@ Here are some ideas to get you started:
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆 🤖 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
+[![](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=react-dark)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
 
 [<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
