@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 [![](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=react-dark)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
 
-## 🔈 🔉  🔊  _**Social**_ _**Media**_ ======================================================
+## Folow Me . . . 🤪
 
 [<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
