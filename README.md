@@ -56,6 +56,10 @@ Here are some ideas to get you started:
 </details>
 
 
+### GIƬ FΘLLΘШΣΓЅ 😉
+[![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
+
+
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆 🤖 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
