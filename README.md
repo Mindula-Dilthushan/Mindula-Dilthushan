@@ -37,10 +37,7 @@ Here are some ideas to get you started:
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
-<details> 
-
-<summary> Github Stats </summary>
-
+## Github Stats 🧐
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
 
@@ -52,8 +49,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai)
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=soft-green)](https://git.io/streak-stats)
-
-</details>
 
 
 ### GIƬ FΘLLΘШΣΓЅ 😉
