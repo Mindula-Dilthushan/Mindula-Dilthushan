@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 #### Software Designer and Developer 
-#### Ethical Hacker  (⓿_⓿)
-##### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+#### Ethical Hacker    (⓿_⓿)
+##### - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ### GIT FOLLOWERS 😒
 [![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
