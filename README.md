@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 #### Software Designer and Developer 
 #### Ethical Hacker 
 
+### GIT FOLLOWERS 😒
+[![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
+
+### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆 😇
+![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
+
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
@@ -36,12 +42,6 @@ Here are some ideas to get you started:
 - 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
-
-### GIƬ FΘLLΘШΣΓЅ 😉
-[![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
-
-### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆 🤖
-![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
 ## Github Stats 🧐
 
