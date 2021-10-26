@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
+### GIƬ FΘLLΘШΣΓЅ 😉
+[![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
+
+### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆 🤖
+![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
+
 ## Github Stats 🧐
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
@@ -49,14 +55,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai)
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=soft-green)](https://git.io/streak-stats)
-
-
-### GIƬ FΘLLΘШΣΓЅ 😉
-[![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
-
-
-### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆 🤖 
-![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
 [![](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=react-dark)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
 
