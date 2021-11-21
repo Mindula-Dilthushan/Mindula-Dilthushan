@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Certificate in Python Machine Learning
 - Proud to be Rahula. 💙🧡
 - Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
-- How to reach me : minduladilthushan1@gmail.com
+- How to reach me : minduladilthushan1@gmail.com and WhatsApp : +94 74 1900 680
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/image.gif?raw=true" width="300" height="300" />
 
