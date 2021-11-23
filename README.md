@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 
 [![](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=react-dark)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
 
+[comment]: <> ([![]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=react-dark&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
+
 ## Folow Me . . . 🤪
 
 [<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
