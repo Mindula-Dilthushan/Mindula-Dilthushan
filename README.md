@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=soft-green)](https://git.io/streak-stats)
 
-[![](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=github)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
+[comment]: <> ([![]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=github&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
 
-[comment]: <> ([![]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=react-dark&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
+[![](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=react-dark)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
 
 ## Folow Me . . . 🤪
 
