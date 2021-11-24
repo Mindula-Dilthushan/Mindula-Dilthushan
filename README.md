@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 #### Software Designer and Developer 
 #### Ethical Hacker    (⓿_⓿)
 
+[comment]: <> (![image]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/Eh.png&#41;)
+
+
 ### GIT FOLLOWERS 😒
 [![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
 
