@@ -3,14 +3,14 @@
 ***
 #### Software Designer and Developer 
 #### Ethical Hacker    (⓿_⓿)
-***
+*** 
 
 ### GIT FOLLOWERS 😒
 [![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
 
+*** 
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 😇
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
-
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
