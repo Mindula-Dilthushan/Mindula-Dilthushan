@@ -34,7 +34,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&theme=gotham&show_icons=true)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai)
 
@@ -71,15 +71,11 @@
 [Dev_Community]:https://dev.to/minduladilthushan
 
 
+
 [comment]: <> (No Use-------------------------------------------------------------------------------------------------------------------------)
 
 [comment]: <> (<p align="left"> <a href="https://github.com/Mindula-Dilthushan/github-readme-stats"><img alt="Mindula-Dilthushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>)
-
-
-
-
-
-[comment]: <> (Errors--------------------------------------------------------------------------------------------------------------------------)
+[comment]: <> (![Most Used Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&theme=gotham&show_icons=true&#41;)
 
 
 
@@ -87,14 +83,6 @@
 [comment]: <> (Not Working---------------------------------------------------------------------------------------------------------------------)
 
 [comment]: <> ([![Mindula Dilthushan's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=dracula&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
-
-
-
-
-
-
-
-
 
 
 
