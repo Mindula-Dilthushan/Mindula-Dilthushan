@@ -1,5 +1,5 @@
 <!--
-**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,18 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 #### Software Designer and Developer 
 #### Ethical Hacker    (⓿_⓿)
-
-<p align="center">
-  <img align="center" width="128" height="128" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/EH%20icon.png">
-</p>
-
-
-[comment]: <> (![image align="right"]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/EH%20icon.png&#41;)
-
 
 ### GIT FOLLOWERS 😒
 [![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
