@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### Software Designer and Developer 
 #### Ethical Hacker    (⓿_⓿)
 
-<img align="right" width="100" height="100" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/EH%20icon.png">
+<img align-left="10%" width="100" height="100" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/EH%20icon.png">
 
 [comment]: <> (![image align="right"]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/EH%20icon.png&#41;)
 
