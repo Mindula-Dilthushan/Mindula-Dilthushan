@@ -31,13 +31,15 @@
 ## Github Stats 🧐
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
-<p align="left"> <a href="https://github.com/Mindula-Dilthushan/github-readme-stats"><img alt="Mindula-Dilthushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&theme=gotham&show_icons=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai)
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=soft-green)](https://git.io/streak-stats)
+
 
 
 ## Folow Me . . . 🤪
@@ -67,12 +69,22 @@
 [Dev_Community]:https://dev.to/minduladilthushan
 
 
+[comment]: <> (No Use-------------------------------------------------------------------------------------------------------------------------)
+
+[comment]: <> (<p align="left"> <a href="https://github.com/Mindula-Dilthushan/github-readme-stats"><img alt="Mindula-Dilthushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>)
+
+
+
 
 
 [comment]: <> (Errors--------------------------------------------------------------------------------------------------------------------------)
 
-[comment]: <> (Not Working)
-[![Mindula Dilthushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=dracula)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
+
+
+
+[comment]: <> (Not Working---------------------------------------------------------------------------------------------------------------------)
+
+[comment]: <> ([![Mindula Dilthushan's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=dracula&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
 
 
 
