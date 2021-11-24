@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### Software Designer and Developer 
 #### Ethical Hacker    (⓿_⓿)
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/EH%20icon.jpg)
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/EH%20icon.png)
 
 
 ### GIT FOLLOWERS 😒
