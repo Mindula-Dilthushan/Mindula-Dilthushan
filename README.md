@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=soft-green)](https://git.io/streak-stats)
 
-[comment]: <> ([![Mindula's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=dracula&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
+[![Mindula's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=dracula)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
 
 
 
