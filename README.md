@@ -40,8 +40,6 @@
 [![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=soft-green)](https://git.io/streak-stats)
 
 
-
-
 ## Folow Me . . . 🤪
 [<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
@@ -70,10 +68,27 @@
 
 
 
-[comment]: <> (----------------------------------------------------------------------------------------------------------------------------------)
 
+[comment]: <> (Errors--------------------------------------------------------------------------------------------------------------------------)
+
+[comment]: <> (Not Working)
+[![Mindula Dilthushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=dracula)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
-
 **Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
