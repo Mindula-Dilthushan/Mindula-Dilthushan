@@ -1,5 +1,6 @@
 <!--
 
+**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 #### Software Designer and Developer 
 #### Ethical Hacker    (⓿_⓿)
+
 
 ### GIT FOLLOWERS 😒
 [![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 - Certificate in Python Machine Learning
 - Proud to be Rahula. 💙🧡
 - Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
-- How to reach me : minduladilthushan1@gmail.com and WhatsApp : +94 74 1900 680
+- How to reach me : minduladilthushan1@gmail.com and  ⚡ WhatsApp : +94 74 1900 680
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/image.gif?raw=true" width="300" height="300" />
 
