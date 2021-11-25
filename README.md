@@ -46,7 +46,6 @@
 
 
 ## Follow Me . . . 🤪
-***
 [<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
@@ -71,6 +70,13 @@
 [Telegram]:https://t.me/alphaxcompany
 [Dribble]:https://dribbble.com/minduladilthushan
 [Dev_Community]:https://dev.to/minduladilthushan
+
+
+
+[comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
+
+
+
 
 
 
