@@ -77,9 +77,6 @@
 
 
 
-
-
-
 [comment]: <> (No Use-------------------------------------------------------------------------------------------------------------------------)
 
 [comment]: <> (<p align="left"> <a href="https://github.com/Mindula-Dilthushan/github-readme-stats"><img alt="Mindula-Dilthushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>)
@@ -87,13 +84,9 @@
 
 
 
-
 [comment]: <> (Not Working---------------------------------------------------------------------------------------------------------------------)
 
 [comment]: <> ([![Mindula Dilthushan's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=dracula&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
-
-
-
 
 
 
