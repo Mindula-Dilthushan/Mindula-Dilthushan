@@ -40,7 +40,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=soft-green)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=gotham)](https://git.io/streak-stats)
 
 [![Mindula Dilthushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
 
