@@ -1,14 +1,8 @@
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 
 ***
-#### Software Designer and Developer 
-#### Ethical Hacker    (⓿_⓿)
 
-
-### GIT FOLLOWERS 😒
-[![GitHub followers](https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mindula-Dilthushan?tab=followers)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232ECC71&size=25&width=450&lines=Software+Developer+And;Designer;Ethical+Hacker+%F0%9F%96%A4%F0%9F%A4%8D)](https://git.io/typing-svg)
 
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
@@ -82,7 +76,10 @@
 
 [comment]: <> (<p align="left"> <a href="https://github.com/Mindula-Dilthushan/github-readme-stats"><img alt="Mindula-Dilthushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>)
 [comment]: <> (![Most Used Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&theme=gotham&show_icons=true&#41;)
-
+[comment]: <> (#### Software Designer and Developer)
+[comment]: <> (#### Ethical Hacker    &#40;⓿_⓿&#41;)
+[comment]: <> (### GIT FOLLOWERS 😒)
+[comment]: <> ([![GitHub followers]&#40;https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000&#41;]&#40;https://github.com/Mindula-Dilthushan?tab=followers&#41;)
 
 
 [comment]: <> (Not Working---------------------------------------------------------------------------------------------------------------------)
