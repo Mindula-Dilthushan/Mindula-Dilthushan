@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Software+Developer+And;Designer;Ethical+Hacker+%F0%9F%96%A4%F0%9F%A4%8D)](https://git.io/typing-svg)
 
+
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
@@ -25,7 +26,7 @@
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
-## Github Stats 🧐
+## Github Stats ⚡🧐 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
 
@@ -70,7 +71,15 @@
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
 
+[comment]: <> (### My Top Repo )
 
+[comment]: <> (<details>)
+
+[comment]: <> (  <summary>⚡ Recent GitHub Activity</summary>)
+
+[comment]: <> (  <br/>)
+
+[comment]: <> (</details>)
 
 [comment]: <> (No Use-------------------------------------------------------------------------------------------------------------------------)
 
