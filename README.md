@@ -28,7 +28,7 @@
 
 ***
 
-**GITHUB METRICS**
+[comment]: <> (**GITHUB METRICS**)
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 
 [comment]: <> (## Github Stats ⚡🧐 )
