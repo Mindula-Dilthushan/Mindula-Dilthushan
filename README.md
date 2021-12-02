@@ -35,15 +35,15 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
+[comment]: <> ([![Most Used Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-stats&#41;)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai)
+[comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai&#41;)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai)
+[comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai&#41;)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=gotham)](https://git.io/streak-stats)
+[comment]: <> ([![]&#40;https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://git.io/streak-stats&#41;)
 
-[![Mindula Dilthushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
+[comment]: <> ([![Mindula Dilthushan's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
 
 
 ## Follow Me . . . 🤪
