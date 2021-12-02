@@ -26,6 +26,8 @@
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
+***
+
 **GITHUB METRICS**
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 
