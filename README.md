@@ -31,9 +31,9 @@
 [comment]: <> (**GITHUB METRICS**)
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 
-[comment]: <> (## Github Stats ⚡🧐 )
+**Github Stats** 🧐
 
-[comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan | Stats" />)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
 
 [comment]: <> ([![Most Used Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-stats&#41;)
 
