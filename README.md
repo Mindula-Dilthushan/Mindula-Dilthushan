@@ -35,7 +35,8 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
 
-[comment]: <> ([![Most Used Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-stats&#41;)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
+
 
 [comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai&#41;)
 
@@ -47,6 +48,8 @@
 
 
 ## Follow Me . . . 🤪
+
+***
 [<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
@@ -57,7 +60,6 @@
 [<img height="30" src = "https://img.shields.io/badge/reddit-fa8231.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
 [<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 [<img height="30" src = "https://img.shields.io/badge/DEV%20Community-2f3640.svg?&style=for-the-badge&logo=Dev_Community&logoColor=white">][Dev_Community]
-
 
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
