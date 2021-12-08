@@ -37,7 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
 
-<a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham" /></a>
 
 
 [comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai&#41;)
@@ -45,9 +45,6 @@
 [comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai&#41;)
 
 [comment]: <> ([![]&#40;https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://git.io/streak-stats&#41;)
-
-[comment]: <> ([![Mindula Dilthushan's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
-
 
 ## Follow Me . . . 🤪
 
