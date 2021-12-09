@@ -53,7 +53,7 @@ Github Stats 🧐
 Where to find me 🤙
 </h3>
 
-[<img height="30" src = "https://img.shields.io/badge/linkedin-0C1014.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/linkedin-259177.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-0C1014.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-0C1014.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src = "https://img.shields.io/badge/Whatsapp-0C1014.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
