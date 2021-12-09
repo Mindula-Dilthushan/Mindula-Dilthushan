@@ -48,19 +48,22 @@ Github Stats 🧐
 
 [comment]: <> ([![]&#40;https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://git.io/streak-stats&#41;)
 
-## Follow Me . . . 🤪
-
 ***
-[<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-[<img height="30" src = "https://img.shields.io/badge/Whatsapp-%27ae60.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
-[<img height="30" src = "https://img.shields.io/badge/twitter-1e90ff.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
-[<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
-[<img height="30" src = "https://img.shields.io/badge/tumblr-7158e2.svg?&style=for-the-badge&logo=tumblr&logoColor=white">][Tumblr]
-[<img height="30" src = "https://img.shields.io/badge/reddit-fa8231.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
-[<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
-[<img height="30" src = "https://img.shields.io/badge/DEV%20Community-2f3640.svg?&style=for-the-badge&logo=Dev_Community&logoColor=white">][Dev_Community]
+<h3 align="center">
+Where to find me 🤙
+</h3>
+
+[<img height="30" src = "https://img.shields.io/badge/linkedin-0C1014.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-0C1014.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-0C1014.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/Whatsapp-0C1014.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
+[<img height="30" src = "https://img.shields.io/badge/twitter-0C1014.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
+[<img height="30" src = "https://img.shields.io/badge/instragram-0C1014.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
+[<img height="30" src = "https://img.shields.io/badge/tumblr-0C1014.svg?&style=for-the-badge&logo=tumblr&logoColor=white">][Tumblr]
+[<img height="30" src = "https://img.shields.io/badge/reddit-0C1014.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
+[<img height="30" src = "https://img.shields.io/badge/telegram-0C1014.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
+[<img height="30" src = "https://img.shields.io/badge/DEV%20Community-0C1014.svg?&style=for-the-badge&logo=dev&logoColor=white">][Dev_Community]
+[<img height="30" src = "https://img.shields.io/badge/Medium-0C1014.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
 
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
@@ -74,6 +77,7 @@ Github Stats 🧐
 [Telegram]:https://t.me/alphaxcompany
 [Dribble]:https://dribbble.com/minduladilthushan
 [Dev_Community]:https://dev.to/minduladilthushan
+[Medium]:https://medium.com/@minduladilthushan1
 
 
 
