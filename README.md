@@ -1,5 +1,4 @@
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
-
 ***
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Software+Developer+And;Designer;Ethical+Hacker+%F0%9F%96%A4%F0%9F%A4%8D)](https://git.io/typing-svg)
@@ -37,9 +36,8 @@ Github Stats 🧐
 </h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham"/>
-<p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
+<p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 
 <details>
 <summary> <i> <b>Top Languages Repo and Commit Details 👈</b></i> </summary>
@@ -48,23 +46,6 @@ Github Stats 🧐
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark"/>
 </div>
 </details>
-
-
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mindula-Dilthushan&theme=github_dark)
-
-</div>
-
-
-
-[comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai&#41;)
-
-[comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai&#41;)
-
-[comment]: <> ([![]&#40;https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://git.io/streak-stats&#41;)
 
 ***
 <h3 align="center">
@@ -113,6 +94,26 @@ GitHub Readme Profile Styles here ! ✌
 </p>
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
+
+
+
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mindula-Dilthushan&theme=github_dark&#41;)
+
+[//]: # ()
+[//]: # (</div>)
+[//]: # (<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham"/>)
+
+
+
+[comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai&#41;)
+
+[comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=monokai&#41;)
+
+[comment]: <> ([![]&#40;https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://git.io/streak-stats&#41;)
+
 
 [comment]: <> (### My Top Repo )
 
