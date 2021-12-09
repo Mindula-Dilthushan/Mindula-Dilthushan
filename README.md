@@ -56,6 +56,14 @@ Github Stats 🧐
 </details>
 
 ***
+
+<details>
+<summary> <i><b>All Trophies 👈 </b></i>
+</summary>
+<img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
+</details>
+
+***
 <h3 align="center">
 Where to find me 🤙
 </h3>
