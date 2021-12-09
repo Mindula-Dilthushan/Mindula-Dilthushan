@@ -11,33 +11,35 @@
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
 
-- Founder at Alpha X Software Company
-- My primary coding language : Java
-- Completed at Cisco Certified Network Associate (CCNA)
-- Completed at Certificate in Ethical Hacking
-- Certificate in Python Machine Learning
+- Founder at Alpha X Software Company  🤴
+- My primary coding language : Java 🧒
+- Graduate in Software Engineering at IJSE 👨‍🎓
+- Completed at Cisco Certified Network Associate (CCNA) in WinSYS Networks 👨‍🎓
+- Completed at Certificate in Ethical Hacking in WinSYS Networks 👨‍🎓
+- Completed at Certificate in Python Machine Learning in WinSYS Networks 👨‍🎓
+- Completed at Certificate in Graphic Design in SITEC 👨‍🎓
 - Proud to be Rahula. 💙🧡
-- Skills : **Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL**
-- How to reach me : minduladilthushan1@gmail.com and  ⚡ WhatsApp : +94 74 1900 680
+- Programming Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
+- Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
+- How to reach me : minduladilthushan1@gmail.com and  ⚡ My WhatsApp : +94 74 1900 680
 
-<img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/image.gif?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/image.gif?raw=true" width="300" height="300"/>
 
 - 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
 ***
-
-[comment]: <> (**GITHUB METRICS**)
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
+***
 
-**Github Stats** 🧐
+<h3 align="center">
+Github Stats 🧐
+</h3>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
-
-<a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham" /></a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham"/>
+<p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 
 
 [comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai&#41;)
@@ -46,20 +48,22 @@
 
 [comment]: <> ([![]&#40;https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://git.io/streak-stats&#41;)
 
-## Follow Me . . . 🤪
-
 ***
-[<img height="30" src = "https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-EA2027.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-0652DD.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-[<img height="30" src = "https://img.shields.io/badge/Whatsapp-%27ae60.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
-[<img height="30" src = "https://img.shields.io/badge/twitter-1e90ff.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
-[<img height="30" src = "https://img.shields.io/badge/instragram-ef5777.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
-[<img height="30" src = "https://img.shields.io/badge/tumblr-7158e2.svg?&style=for-the-badge&logo=tumblr&logoColor=white">][Tumblr]
-[<img height="30" src = "https://img.shields.io/badge/reddit-fa8231.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
-[<img height="30" src = "https://img.shields.io/badge/telegram-2d98da.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
-[<img height="30" src = "https://img.shields.io/badge/DEV%20Community-2f3640.svg?&style=for-the-badge&logo=Dev_Community&logoColor=white">][Dev_Community]
+<h3 align="center">
+Where to find me 🤙
+</h3>
 
+[<img height="25" src = "https://img.shields.io/badge/linkedin-00614A.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="25" src = "https://img.shields.io/badge/Youtube-00614A.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
+[<img height="25" src = "https://img.shields.io/badge/Facebook-00614A.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="25" src = "https://img.shields.io/badge/Whatsapp-00614A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
+[<img height="25" src = "https://img.shields.io/badge/twitter-00614A.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
+[<img height="25" src = "https://img.shields.io/badge/instragram-00614A.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
+[<img height="25" src = "https://img.shields.io/badge/tumblr-00614A.svg?&style=for-the-badge&logo=tumblr&logoColor=white">][Tumblr]
+[<img height="25" src = "https://img.shields.io/badge/reddit-00614A.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
+[<img height="25" src = "https://img.shields.io/badge/telegram-00614A.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
+[<img height="25" src = "https://img.shields.io/badge/DEV%20Community-00614A.svg?&style=for-the-badge&logo=dev&logoColor=white">][Dev_Community]
+[<img height="25" src = "https://img.shields.io/badge/Medium-00614A.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
 [Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
@@ -72,6 +76,22 @@
 [Telegram]:https://t.me/alphaxcompany
 [Dribble]:https://dribbble.com/minduladilthushan
 [Dev_Community]:https://dev.to/minduladilthushan
+[Medium]:https://medium.com/@minduladilthushan1
+
+---
+<h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
+<p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦 <br>
+<img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+</p>
+<p align="center">
+<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
+GitHub Readme Profile Styles here ! ✌
+</a>
+</p>
+
+
+
 
 
 
