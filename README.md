@@ -33,6 +33,8 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 
+***
+
 *Github Stats* 🧐
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
