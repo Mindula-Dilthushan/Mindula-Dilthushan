@@ -41,6 +41,11 @@ Github Stats 🧐
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
 
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark"/>
+</div>
+
 
 [//]: # (<details>)
 
@@ -72,27 +77,16 @@ Where to find me 🤙
 [<img height="25" src = "https://img.shields.io/badge/Medium-00614A.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
-
 [Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
-
 [Facebook]: https://www.facebook.com/minduladilthushan.manamperi
-
 [WhatsApp]: https://wa.me/0741900680
-
 [Twitter]: https://twitter.com/MindulaDilthus8
-
 [Instragram]: https://www.instagram.com/mindula_dilthushan/
-
 [Tumblr]:https://www.tumblr.com/dashboard
-
 [Reddit]:https://www.reddit.com/user/Loose_Essay9560
-
 [Telegram]:https://t.me/alphaxcompany
-
 [Dribble]:https://dribbble.com/minduladilthushan
-
 [Dev_Community]:https://dev.to/minduladilthushan
-
 [Medium]:https://medium.com/@minduladilthushan1
 
 ---
