@@ -44,9 +44,7 @@ Github Stats 🧐
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
 
 <p align="center">
-
-
-<table width="1500px" align="center">
+<table align="center" border="transparent">
 <tr>
 <td valign="top">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/>
