@@ -46,7 +46,7 @@ Github Stats 🧐
 <p align="center">
 
 
-<table width="1000px">
+<table width="1200px" align="center">
 <tr>
 <td valign="top" width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/>
