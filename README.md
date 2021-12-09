@@ -46,6 +46,12 @@ Github Stats 🧐
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark"/>
 </div>
 
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mindula-Dilthushan&theme=github_dark)
+
+</div>
 
 [//]: # (<details>)
 
