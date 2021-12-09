@@ -4,14 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Software+Developer+And;Designer;Ethical+Hacker+%F0%9F%96%A4%F0%9F%A4%8D)](https://git.io/typing-svg)
 
-
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
+
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
-
-- Founder at Alpha X Software Company  🤴
+- Founder at Alpha X Software Company 🤴
 - My primary coding language : Java 🧒
 - Graduate in Software Engineering at IJSE 👨‍🎓
 - Completed at Cisco Certified Network Associate (CCNA) in WinSYS Networks 👨‍🎓
@@ -19,13 +18,15 @@
 - Completed at Certificate in Python Machine Learning in WinSYS Networks 👨‍🎓
 - Completed at Certificate in Graphic Design in SITEC 👨‍🎓
 - Proud to be Rahula. 💙🧡
-- Programming Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
+- Programming Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS,
+  ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
 - Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
-- How to reach me : minduladilthushan1@gmail.com and  ⚡ My WhatsApp : +94 74 1900 680
+- How to reach me : minduladilthushan1@gmail.com and ⚡ My WhatsApp : +94 74 1900 680
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/image.gif?raw=true" width="300" height="300"/>
 
-- 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
+-
+🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
@@ -41,6 +42,29 @@ Github Stats 🧐
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham"/>
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
+
+[//]: # (<p align="center">)
+
+[//]: # (<table>)
+
+[//]: # (<tr>)
+
+[//]: # (<td valign="top" width="50%">)
+
+[//]: # (<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/> </p>)
+
+[//]: # (</td>)
+
+[//]: # (<td valign="top" width="50%">)
+
+[//]: # (<p align="right"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/> </p>)
+
+[//]: # (</td>)
+
+[//]: # (</tr>)
+
+[//]: # (</table>)
+
 
 [comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai&#41;)
 
@@ -66,16 +90,27 @@ Where to find me 🤙
 [<img height="25" src = "https://img.shields.io/badge/Medium-00614A.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
+
 [Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
+
 [Facebook]: https://www.facebook.com/minduladilthushan.manamperi
+
 [WhatsApp]: https://wa.me/0741900680
+
 [Twitter]: https://twitter.com/MindulaDilthus8
+
 [Instragram]: https://www.instagram.com/mindula_dilthushan/
+
 [Tumblr]:https://www.tumblr.com/dashboard
+
 [Reddit]:https://www.reddit.com/user/Loose_Essay9560
+
 [Telegram]:https://t.me/alphaxcompany
+
 [Dribble]:https://dribbble.com/minduladilthushan
+
 [Dev_Community]:https://dev.to/minduladilthushan
+
 [Medium]:https://medium.com/@minduladilthushan1
 
 ---
@@ -90,10 +125,9 @@ GitHub Readme Profile Styles here ! ✌
 </a>
 </p>
 
-
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
 
@@ -110,15 +144,19 @@ GitHub Readme Profile Styles here ! ✌
 [comment]: <> (No Use-------------------------------------------------------------------------------------------------------------------------)
 
 [comment]: <> (<p align="left"> <a href="https://github.com/Mindula-Dilthushan/github-readme-stats"><img alt="Mindula-Dilthushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>)
+
 [comment]: <> (![Most Used Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&theme=gotham&show_icons=true&#41;)
+
 [comment]: <> (#### Software Designer and Developer)
+
 [comment]: <> (#### Ethical Hacker    &#40;⓿_⓿&#41;)
+
 [comment]: <> (### GIT FOLLOWERS 😒)
+
 [comment]: <> ([![GitHub followers]&#40;https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000&#41;]&#40;https://github.com/Mindula-Dilthushan?tab=followers&#41;)
 
 
 [comment]: <> (Not Working---------------------------------------------------------------------------------------------------------------------)
-
 
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
