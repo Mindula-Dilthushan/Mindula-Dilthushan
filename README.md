@@ -43,15 +43,13 @@ Github Stats 🧐
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
 
+<p align="center">
 <table>
 <tr>
 <td valign="top" width="50%">
-
 <p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/> </p>
-
 </td>
 <td valign="top" width="50%">
-
 <p align="right"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/> </p>
 </td>
 </tr>
