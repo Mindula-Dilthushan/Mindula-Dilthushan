@@ -30,12 +30,9 @@
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
 ***
-
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
-
 ***
 
-[//]: # (GitHub Stats Section -----------------------------------------------------------------------------------------)
 <h3 align="center">
 Github Stats 🧐
 </h3>
