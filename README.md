@@ -65,7 +65,6 @@ Where to find me 🤙
 [<img height="25" src = "https://img.shields.io/badge/DEV%20Community-00614A.svg?&style=for-the-badge&logo=dev&logoColor=white">][Dev_Community]
 [<img height="25" src = "https://img.shields.io/badge/Medium-00614A.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
 
-
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
 [Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
 [Facebook]: https://www.facebook.com/minduladilthushan.manamperi
@@ -78,6 +77,20 @@ Where to find me 🤙
 [Dribble]:https://dribbble.com/minduladilthushan
 [Dev_Community]:https://dev.to/minduladilthushan
 [Medium]:https://medium.com/@minduladilthushan1
+
+---
+<p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦 <br>
+<img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+</p>
+<p align="center">
+<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
+GitHub Readme Profile Styles here ! ✌
+</a>
+</p>
+
+
+
 
 
 
