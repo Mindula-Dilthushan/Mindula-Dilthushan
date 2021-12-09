@@ -47,12 +47,26 @@ Github Stats 🧐
 
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 
+
+<h3 align="center">
+Click And View 😇
+</h3>
+
+
 <details>
 <summary> <i> <b>Top Languages Repo and Commit Details 👈 </b></i> </summary>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark"/>
 </div>
+</details>
+
+***
+
+<details>
+<summary> <i><b>All Trophies 👈 </b></i>
+</summary>
+<img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
 </details>
 
 ***
@@ -93,6 +107,15 @@ Where to find me 🤙
 <img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 </p>
+
+<p align="center">
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>
+</p>
+
 <p align="center">
 <a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
 GitHub Readme Profile Styles here ! ✌
