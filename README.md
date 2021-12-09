@@ -11,13 +11,16 @@
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
 
 
-- Founder at Alpha X Software Company
-- My primary coding language : Java
-- Completed at Cisco Certified Network Associate (CCNA)
-- Completed at Certificate in Ethical Hacking
-- Certificate in Python Machine Learning
-- Proud to be Rahula. 💙🧡
-- Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
+- Founder at Alpha X Software Company  🤴
+- My primary coding language : Java 🧒
+- Graduate in Software Engineering at IJSE 👨‍🎓
+- Completed at Cisco Certified Network Associate (CCNA) in WinSYS Networks 👨‍🎓
+- Completed at Certificate in Ethical Hacking in WinSYS Networks 👨‍🎓
+- Completed at Certificate in Python Machine Learning in WinSYS Networks 👨‍🎓
+- Completed at Certificate in Graphic Design in SITEC 👨‍🎓
+- Proud to be Rahula. 💙🧡👱‍♂️
+- Programming Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
+- Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
 - How to reach me : minduladilthushan1@gmail.com and  ⚡ My WhatsApp : +94 74 1900 680
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/image.gif?raw=true" width="300" height="300" />
