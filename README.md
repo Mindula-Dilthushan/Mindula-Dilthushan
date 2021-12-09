@@ -39,6 +39,15 @@ Github Stats 🧐
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mindula-Dilthushan&theme=github_dark)
+
+</div>
+
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 
 <details>
@@ -140,45 +149,6 @@ GitHub Readme Profile Styles here ! ✌
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
 
 
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # ()
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mindula-Dilthushan&theme=github_dark&#41;)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham"/>)
-
-
-
-[comment]: <> (### My Top Repo )
-
-[comment]: <> (<details>)
-
-[comment]: <> (  <summary>⚡ Recent GitHub Activity</summary>)
-
-[comment]: <> (  <br/>)
-
-[comment]: <> (</details>)
-
-[comment]: <> (No Use-------------------------------------------------------------------------------------------------------------------------)
-
-[comment]: <> (<p align="left"> <a href="https://github.com/Mindula-Dilthushan/github-readme-stats"><img alt="Mindula-Dilthushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>)
-
-[comment]: <> (![Most Used Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&theme=gotham&show_icons=true&#41;)
-
-[comment]: <> (#### Software Designer and Developer)
-
-[comment]: <> (#### Ethical Hacker    &#40;⓿_⓿&#41;)
-
-[comment]: <> (### GIT FOLLOWERS 😒)
-
-[comment]: <> ([![GitHub followers]&#40;https://img.shields.io/github/followers/Mindula-Dilthushan.svg?style=social&label=Follow&maxAge=2592000&#41;]&#40;https://github.com/Mindula-Dilthushan?tab=followers&#41;)
-
-
-[comment]: <> (Not Working---------------------------------------------------------------------------------------------------------------------)
 
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
