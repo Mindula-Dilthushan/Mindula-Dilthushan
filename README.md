@@ -43,28 +43,12 @@ Github Stats 🧐
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
 
-[//]: # (<p align="center">)
 
-[//]: # (<table>)
+[//]: # (<details>)
 
-[//]: # (<tr>)
+[//]: # (<summary>  </summary>)
 
-[//]: # (<td valign="top" width="50%">)
-
-[//]: # (<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/> </p>)
-
-[//]: # (</td>)
-
-[//]: # (<td valign="top" width="50%">)
-
-[//]: # (<p align="right"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/> </p>)
-
-[//]: # (</td>)
-
-[//]: # (</tr>)
-
-[//]: # (</table>)
-
+[//]: # (</details>)
 
 [comment]: <> (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=monokai&#41;)
 
@@ -126,7 +110,7 @@ GitHub Readme Profile Styles here ! ✌
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
