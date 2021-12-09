@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
+g### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 ***
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Software+Developer+And;Designer;Ethical+Hacker+%F0%9F%96%A4%F0%9F%A4%8D)](https://git.io/typing-svg)
@@ -7,7 +7,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/15.jpg)
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/15.jpg)
 
 - Founder at Alpha X Software Company 🤴
 - My primary coding language : Java 🧒
@@ -21,7 +21,7 @@
 - Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
 - How to reach me : minduladilthushan1@gmail.com and ⚡ My WhatsApp : +94 74 1900 680
 
-<img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/asserts/image.gif?raw=true" width="300" height="300"/>
+<img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
 - 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 
