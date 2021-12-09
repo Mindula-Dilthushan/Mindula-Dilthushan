@@ -35,14 +35,13 @@
 
 ***
 
+[//]: # (GitHub Stats Section -----------------------------------------------------------------------------------------)
 <h3 align="center">
 Github Stats 🧐
-
 </h3>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham"/>
 <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham" /></a>
 
 
