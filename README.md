@@ -47,6 +47,8 @@ Github Stats 🧐
 
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 
+***
+
 <details>
 <summary> <i> <b>Top Languages Repo and Commit Details 👈 </b></i> </summary>
 <div align="center">
