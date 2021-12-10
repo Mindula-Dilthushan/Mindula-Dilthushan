@@ -181,6 +181,12 @@ GitHub Readme Profile Styles here ! ✌
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
 
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
