@@ -32,6 +32,21 @@
 ***
 
 <h3 align="center">
+Popular Repo 💎
+</h3>
+
+<div align="center">
+
+[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting" />][ax-hosting]
+[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles" />][Readme-File-Styles]
+</div>
+
+[ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
+[Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
+
+---
+
+<h3 align="center">
 Github Stats 🧐
 </h3>
 
@@ -182,9 +197,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[//]: # (Pin Repo --------------------------------------------------------------------------------------------)
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Mindula-Dilthushan&#41;]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan&#41;)
-
-[//]: # ()
 
