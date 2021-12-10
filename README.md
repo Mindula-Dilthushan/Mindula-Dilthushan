@@ -32,6 +32,21 @@
 ***
 
 <h3 align="center">
+Popular Repo 💎
+</h3>
+
+<div align="center">
+
+[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting" />][ax-hosting]
+[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles" />][Readme-File-Styles]
+</div>
+
+[ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
+[Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
+
+---
+
+<h3 align="center">
 Github Stats 🧐
 </h3>
 
@@ -47,11 +62,9 @@ Github Stats 🧐
 
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 
-
 <h3 align="center">
 Click And View 😇
 </h3>
-
 
 <details>
 <summary> <i> <b>Top Languages Repo and Commit Details 👈 </b></i> </summary>
@@ -169,8 +182,6 @@ GitHub Readme Profile Styles here ! ✌
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
 
 
-
-
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
 **Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -186,3 +197,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
