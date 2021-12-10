@@ -69,6 +69,20 @@ Click And View 😇
 <img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
 </details>
 
+[//]: # (---)
+
+[//]: # (<details>)
+
+[//]: # (<summary> <i><b>All Trophies 👈 </b></i>)
+
+[//]: # (</summary>)
+
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan"/>)
+
+[//]: # (</details>)
+
+
+
 ***
 <h3 align="center">
 Where to find me 🤙
@@ -169,8 +183,6 @@ GitHub Readme Profile Styles here ! ✌
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
 
 
-
-
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
 **Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -186,3 +198,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[//]: # (Pin Repo --------------------------------------------------------------------------------------------)
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Mindula-Dilthushan&#41;]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan&#41;)
+
+[//]: # ()
+
