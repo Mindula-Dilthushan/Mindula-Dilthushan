@@ -27,6 +27,12 @@
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
+## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 
+***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
+
+<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+
+
 ***
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 ***
@@ -119,13 +125,6 @@ Where to find me 🤙
 <p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦 <br>
 <img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
-</p>
-
----
-
-<h3 align="center">Donation</h4>
-<p align="center">
-<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 </p>
 
 <p align="center">
