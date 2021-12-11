@@ -27,7 +27,8 @@
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
-## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 
+<h2 style="color: #FF5F5F !important;"> 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 </h2>
+
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
