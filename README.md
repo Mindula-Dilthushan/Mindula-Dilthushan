@@ -121,6 +121,13 @@ Where to find me 🤙
 <img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 </p>
 
+---
+
+<h3 align="center">Donation</h4>
+<p align="center">
+<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+</p>
+
 <p align="center">
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
@@ -180,6 +187,7 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
+
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
