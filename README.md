@@ -1,4 +1,5 @@
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
+
 ***
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Software+Developer+And;Designer;Ethical+Hacker+%F0%9F%96%A4%F0%9F%A4%8D)](https://git.io/typing-svg)
@@ -17,18 +18,20 @@
 - Completed at Certificate in Python Machine Learning in WinSYS Networks 👨‍🎓
 - Completed at Certificate in Graphic Design in SITEC 👨‍🎓
 - Proud to be Rahula. 💙🧡
-- Programming Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
+- Programming Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS,
+  ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
 - Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
 - How to reach me : minduladilthushan1@gmail.com and ⚡ My WhatsApp : +94 74 1900 680
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
-- 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
+-
+🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
 
 - 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
-
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
+
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
@@ -49,6 +52,7 @@ Popular Repo 💎
 </div>
 
 [ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
+
 [Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
 
 ---
@@ -93,12 +97,9 @@ Click And View 😇
 <details>
 <summary> <i><b>Most Used Languages 👈</b></i>
 </summary>
-
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham"/>
 </div>
 </details>
 
@@ -120,16 +121,27 @@ Where to find me 🤙
 [<img height="25" src = "https://img.shields.io/badge/Medium-00614A.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
+
 [Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
+
 [Facebook]: https://www.facebook.com/minduladilthushan.manamperi
+
 [WhatsApp]: https://wa.me/0741900680
+
 [Twitter]: https://twitter.com/MindulaDilthus8
+
 [Instragram]: https://www.instagram.com/mindula_dilthushan/
+
 [Tumblr]:https://www.tumblr.com/dashboard
+
 [Reddit]:https://www.reddit.com/user/Loose_Essay9560
+
 [Telegram]:https://t.me/alphaxcompany
+
 [Dribble]:https://dribbble.com/minduladilthushan
+
 [Dev_Community]:https://dev.to/minduladilthushan
+
 [Medium]:https://medium.com/@minduladilthushan1
 
 [//]: # (Footer Section -----------------------------------------------------------------------------------------------)
@@ -158,45 +170,6 @@ GitHub Readme Profile Styles here ! ✌
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
