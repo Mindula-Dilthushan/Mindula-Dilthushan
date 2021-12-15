@@ -98,10 +98,11 @@ Click And View 😇
 <summary> <i><b>Most Used Languages 👈</b></i>
 </summary>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=github_dark"/>
 </div>
+<div></div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&theme=github_dark"/>
 </div>
 </details>
 
