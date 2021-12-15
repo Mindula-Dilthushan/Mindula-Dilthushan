@@ -46,8 +46,8 @@ Popular Repo 💎
 
 <div align="center">
 
-[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting]
-[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles]
+[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting]
+[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles]
 </div>
 
 [ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
