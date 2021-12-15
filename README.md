@@ -89,6 +89,19 @@ Click And View 😇
 <img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
 </details>
 
+---
+<details>
+<summary> <i><b>Most Used Languages 👈</b></i>
+</summary>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&layout=compact&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-stats)
+
+</div>
+</details>
+
 ***
 <h3 align="center">
 Where to find me 🤙
@@ -187,13 +200,6 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
-
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-[//]: # ()
-[//]: # ()
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
