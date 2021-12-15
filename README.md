@@ -138,28 +138,18 @@ Where to find me 🤙
 
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
-
 [Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
-
 [Facebook]: https://www.facebook.com/minduladilthushan.manamperi
-
 [WhatsApp]: https://wa.me/0741900680
-
 [Twitter]: https://twitter.com/MindulaDilthus8
-
 [Instragram]: https://www.instagram.com/mindula_dilthushan/
-
 [Tumblr]:https://www.tumblr.com/dashboard
-
 [Reddit]:https://www.reddit.com/user/Loose_Essay9560
-
 [Telegram]:https://t.me/alphaxcompany
-
 [Dribble]:https://dribbble.com/minduladilthushan
-
 [Dev_Community]:https://dev.to/minduladilthushan
-
 [Medium]:https://medium.com/@minduladilthushan1
+
 
 [//]: # (Footer Section -----------------------------------------------------------------------------------------------)
 
@@ -187,6 +177,46 @@ GitHub Readme Profile Styles here ! ✌
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
