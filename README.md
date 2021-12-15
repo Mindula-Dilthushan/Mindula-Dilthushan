@@ -46,13 +46,11 @@ Popular Repo 💎
 
 <div align="center">
 
-<a href="https://github.com/Mindula-Dilthushan/ax-hosting">
-<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>
-</a>
-
+[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting]
 [<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles]
 </div>
 
+[ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
 
 [Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
 
