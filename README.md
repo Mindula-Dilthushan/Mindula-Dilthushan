@@ -105,6 +105,7 @@ Click And View 😇
 <h3 align="center">
 Where to find me 🤙
 </h3>
+<div align="center">
 
 [<img height="25" src = "https://img.shields.io/badge/linkedin-00614A.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="25" src = "https://img.shields.io/badge/Youtube-00614A.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
@@ -117,6 +118,10 @@ Where to find me 🤙
 [<img height="25" src = "https://img.shields.io/badge/telegram-00614A.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 [<img height="25" src = "https://img.shields.io/badge/DEV%20Community-00614A.svg?&style=for-the-badge&logo=dev&logoColor=white">][Dev_Community]
 [<img height="25" src = "https://img.shields.io/badge/Medium-00614A.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
+
+</div>
+
+
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
 
