@@ -47,7 +47,9 @@ Popular Repo 💎
 <div align="center">
 
 [<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack]
+[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon]
 </div>
+
 
 <div align="center">
 
@@ -58,6 +60,7 @@ Popular Repo 💎
 [ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
 [Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
 [MernStack]:https://github.com/Mindula-Dilthushan/MERN-Stack-CRUD-App-API
+[readme_File_Icon]:https://github.com/Mindula-Dilthushan/Readme-File-Icons
 
 ---
 
