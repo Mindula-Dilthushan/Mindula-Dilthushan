@@ -80,6 +80,10 @@ Github Stats 🧐
 
 <p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
 
+<div align="center">
+
+![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake.svg)
+</div>
 
 <h3 align="center">
 Click And View 😇
@@ -230,9 +234,6 @@ GitHub Readme Profile Styles here ! ✌
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
 
-[//]: # (![snake gif]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake.svg&theme=gotham&#41;)
-
-<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake.svg&theme=gotham"/>
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
