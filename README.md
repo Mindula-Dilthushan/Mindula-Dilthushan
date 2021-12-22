@@ -82,7 +82,7 @@ Github Stats 🧐
 
 <div align="center">
 
-![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake-00614A.svg)
+![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake.svg&bg_color=0C1014)
 </div>
 
 <h3 align="center">
