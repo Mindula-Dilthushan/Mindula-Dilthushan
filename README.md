@@ -230,7 +230,7 @@ GitHub Readme Profile Styles here ! ✌
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
 
-![snake gif](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake.svg)
+![snake gif](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake.svg&theme=gotham)
 
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
