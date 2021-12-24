@@ -80,7 +80,7 @@ Github Stats 🧐
 
 <p align="center"> 
 
-[![Mindula-Dilthushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph)
+[//]: # ([![Mindula-Dilthushan's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
 </p>
 
 ---
