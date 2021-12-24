@@ -78,14 +78,17 @@ Github Stats 🧐
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mindula-Dilthushan&theme=github_dark"/>
 </div>
 
-<p align="center"> <a href="https://github.com/Mindula-Dilthushan/github-readme-activity-graph"><img alt="Mindula Dilthushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham"/> </a>
+<p align="center"> 
+
+[//]: # ([![Mindula-Dilthushan's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&#41;)
+</p>
 
 ---
 
 <div align="center">
 
 ***My Contributions*** 😥 <br>
-![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake.svg)
+![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/github-contribution-grid-snake.svg)
 </div>
 
 ---
