@@ -85,7 +85,7 @@ Github Stats 🧐
 <div align="center">
 
 ***My Contributions*** 😥 <br>
-![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/snake.svg)
+![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev/assets/snake/github-contribution-grid-snake.gif)
 </div>
 
 ---
