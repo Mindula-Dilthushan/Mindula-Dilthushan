@@ -22,6 +22,7 @@
   ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
 - Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
 - How to reach me : minduladilthushan1@gmail.com and ⚡ My WhatsApp : +94 74 1900 680
+- My Website : [mindula-dilthushan.github.io](https://mindula-dilthushan.github.io/Mindula.Dilthushan.github.io/) 🤪
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
@@ -128,6 +129,7 @@ Click And View 😇
 </details>
 
 ---
+
 <details>
 <summary> <i><b>Most Used Languages 👈</b></i>
 </summary>
@@ -137,6 +139,27 @@ Click And View 😇
 </details>
 
 ***
+
+<details>
+<summary> <i><b>Programming Languages 👈 </b></i>
+<div>
+
+#### 
+</div>
+<div align="center">
+
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+</div>
+</summary>
+
+
+</details>
+
+---
+
 <h3 align="center">
 Where to find me 🤙
 </h3>
