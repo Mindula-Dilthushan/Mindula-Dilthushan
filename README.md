@@ -142,6 +142,7 @@ Click And View 😇
 
 <details>
 <summary> <i><b>Programming Languages 👈 </b></i>
+</summary>
 <div>
 
 #### 
@@ -153,8 +154,6 @@ Click And View 😇
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 </div>
-</summary>
-
 
 </details>
 
