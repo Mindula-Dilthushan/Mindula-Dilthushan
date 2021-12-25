@@ -129,6 +129,7 @@ Click And View 😇
 </details>
 
 ---
+
 <details>
 <summary> <i><b>Most Used Languages 👈</b></i>
 </summary>
@@ -138,6 +139,16 @@ Click And View 😇
 </details>
 
 ***
+
+<details>
+<summary> <i><b>Programming Languages 👈 </b></i>
+</summary>
+
+
+</details>
+
+---
+
 <h3 align="center">
 Where to find me 🤙
 </h3>
