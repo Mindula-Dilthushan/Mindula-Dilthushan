@@ -110,7 +110,7 @@ Click And View 😇
 </div>
 </details>
 
----
+####
 
 <details>
 <summary> <i> <b>Top Languages Repo and Commit Details 👈 </b></i> </summary>
@@ -120,7 +120,8 @@ Click And View 😇
 </div>
 </details>
 
-***
+####
+
 
 <details>
 <summary> <i><b>All Trophies 👈 </b></i>
@@ -128,7 +129,8 @@ Click And View 😇
 <img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
 </details>
 
----
+####
+
 
 <details>
 <summary> <i><b>Most Used Languages 👈</b></i>
@@ -138,7 +140,8 @@ Click And View 😇
 </div>
 </details>
 
-***
+####
+
 
 <details>
 <summary> <i><b>Programming Languages 👈 </b></i>
