@@ -167,10 +167,8 @@ Click And View 😇
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
 
 </div>
-
 </details>
 
----
 
 <details>
 <summary> <i><b>Frontend Development 👈 </b></i>
