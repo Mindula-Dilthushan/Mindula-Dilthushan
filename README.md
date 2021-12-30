@@ -142,13 +142,13 @@ Click And View 😇
 
 ####
 
-
 <details>
 <summary> <i><b>Programming Languages 👈 </b></i>
 </summary>
 <div>
 
 #### 
+
 </div>
 <div align="center">
 
@@ -169,6 +169,7 @@ Click And View 😇
 </div>
 </details>
 
+####
 
 <details>
 <summary> <i><b>Frontend Development 👈 </b></i>
