@@ -214,6 +214,26 @@ Click And View 😇
 </div>
 </details>
 
+####
+<details>
+<summary> <i><b>Mobile App Development 👈 </b></i>
+</summary>
+<div>
+
+#### 
+</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="37" height="37"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="35" height="35"/>
+
+</div>
+</details>
+
 
 
 
