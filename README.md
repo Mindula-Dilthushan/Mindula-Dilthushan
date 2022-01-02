@@ -272,6 +272,20 @@ Click And View 😇
 </div>
 </details>
 
+####
+<details>
+<summary> <i><b>Backend as a Service 👈 </b></i>
+</summary>
+<div>
+
+####
+</div>
+<div align="center">
+
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+
+</div>
+</details>
 
 
 
