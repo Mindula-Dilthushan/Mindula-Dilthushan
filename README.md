@@ -256,6 +256,92 @@ Click And View 😇
 </details>
 
 
+####
+<details>
+<summary> <i><b>Data Visualization 👈 </b></i>
+</summary>
+<div>
+
+
+####
+</div>
+<div align="center">
+
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
+
+</div>
+</details>
+
+####
+<details>
+<summary> <i><b>Backend as a Service 👈 </b></i>
+</summary>
+<div>
+
+####
+</div>
+<div align="center">
+
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+
+</div>
+</details>
+
+
+####
+<details>
+<summary> <i><b>Framework 👈 </b></i>
+</summary>
+<div>
+
+####
+</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+
+</div>
+</details>
+
+
+####
+<details>
+<summary> <i><b>Software 👈 </b></i>
+</summary>
+<div>
+
+####
+</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+
+</div>
+</details>
+
+
+####
+<details>
+<summary> <i><b>Game Engines 👈 </b></i>
+</summary>
+<div>
+
+####
+</div>
+<div align="center">
+
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+
+</div>
+</details>
+
 
 
 
