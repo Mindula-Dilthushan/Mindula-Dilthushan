@@ -256,6 +256,23 @@ Click And View 😇
 </details>
 
 
+####
+<details>
+<summary> <i><b>Data Visualization 👈 </b></i>
+</summary>
+<div>
+
+####
+</div>
+<div align="center">
+
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
+
+</div>
+</details>
+
+
 
 
 
