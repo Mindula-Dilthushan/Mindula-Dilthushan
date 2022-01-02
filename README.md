@@ -262,6 +262,7 @@ Click And View 😇
 </summary>
 <div>
 
+
 ####
 </div>
 <div align="center">
@@ -283,6 +284,24 @@ Click And View 😇
 <div align="center">
 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+
+</div>
+</details>
+
+
+####
+<details>
+<summary> <i><b>Framework 👈 </b></i>
+</summary>
+<div>
+
+####
+</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
 
 </div>
 </details>
