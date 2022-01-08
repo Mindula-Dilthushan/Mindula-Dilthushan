@@ -184,7 +184,7 @@ Click And View 😇
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="34" height="34"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="34" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="34" height="34"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="34" height="34"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="34" height="34"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="34" height="34"/> 
@@ -344,8 +344,6 @@ Click And View 😇
 
 
 
-
-
 ---
 
 
@@ -387,6 +385,7 @@ Where to find me 🤙
 [//]: # (Footer Section -----------------------------------------------------------------------------------------------)
 
 ---
+
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
 <p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦 <br>
 <img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
