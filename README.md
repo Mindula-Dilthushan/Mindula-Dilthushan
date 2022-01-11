@@ -398,6 +398,11 @@ Where to find me 🤙
 <img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 </p>
 
+<div align="center">
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Mindula-Dilthushan.Mindula-Dilthushan&color=2e86de?style=flat-square&labelColor=343b41)
+</div>
+
 <p align="center">
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
