@@ -115,7 +115,7 @@ Click And View 😇
 
 
 <details>
-<summary> <i><b>Tools 👈</b></i>
+<summary> <i><b>Tools 🛠</b></i>
 </summary>
 <div align="center">
 
@@ -128,7 +128,7 @@ Click And View 😇
 ####
 
 <details>
-<summary> <i> <b>Top Languages Repo and Commit Details 👈 </b></i> </summary>
+<summary> <i> <b>Top Languages Repo and Commit Details 🎉 </b></i> </summary>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark"/>
@@ -139,7 +139,7 @@ Click And View 😇
 
 
 <details>
-<summary> <i><b>All Trophies 👈 </b></i>
+<summary> <i><b>All Trophies 🏆 </b></i>
 </summary>
 <img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
 </details>
@@ -148,7 +148,7 @@ Click And View 😇
 
 
 <details>
-<summary> <i><b>Most Used Languages 👈</b></i>
+<summary> <i><b>Most Used Languages 🎏 </b></i>
 </summary>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&theme=gotham"/>
@@ -158,7 +158,7 @@ Click And View 😇
 ####
 
 <details>
-<summary> <i><b>Programming Languages 👈 </b></i>
+<summary> <i><b>Programming Languages 🖥 </b></i>
 </summary>
 <div>
 
@@ -187,7 +187,7 @@ Click And View 😇
 ####
 
 <details>
-<summary> <i><b>Frontend Development 👈 </b></i>
+<summary> <i><b>Frontend Development 🖥 </b></i>
 </summary>
 <div>
 
@@ -212,7 +212,7 @@ Click And View 😇
 
 ####
 <details>
-<summary> <i><b>Backend Development 👈 </b></i>
+<summary> <i><b>Backend Development 🖥 </b></i>
 </summary>
 <div>
 
@@ -231,7 +231,7 @@ Click And View 😇
 
 ####
 <details>
-<summary> <i><b>Mobile App Development 👈 </b></i>
+<summary> <i><b>Mobile App Development 📱 </b></i>
 </summary>
 <div>
 
@@ -251,7 +251,7 @@ Click And View 😇
 
 ####
 <details>
-<summary> <i><b>Database 👈 </b></i>
+<summary> <i><b>Database 🛢 </b></i>
 </summary>
 <div>
 
@@ -272,7 +272,7 @@ Click And View 😇
 
 ####
 <details>
-<summary> <i><b>Data Visualization 👈 </b></i>
+<summary> <i><b>Data Visualization 📊 </b></i>
 </summary>
 <div>
 
@@ -289,7 +289,7 @@ Click And View 😇
 
 ####
 <details>
-<summary> <i><b>Backend as a Service 👈 </b></i>
+<summary> <i><b>Backend as a Service 🖥 </b></i>
 </summary>
 <div>
 
@@ -305,7 +305,7 @@ Click And View 😇
 
 ####
 <details>
-<summary> <i><b>Framework 👈 </b></i>
+<summary> <i><b>Framework 🖥 </b></i>
 </summary>
 <div>
 
@@ -323,7 +323,7 @@ Click And View 😇
 
 ####
 <details>
-<summary> <i><b>Software 👈 </b></i>
+<summary> <i><b>Software ⚙ </b></i>
 </summary>
 <div>
 
@@ -343,7 +343,7 @@ Click And View 😇
 
 ####
 <details>
-<summary> <i><b>Game Engines 👈 </b></i>
+<summary> <i><b>Game Engines 🎮 </b></i>
 </summary>
 <div>
 
