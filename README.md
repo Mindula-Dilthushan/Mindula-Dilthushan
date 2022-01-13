@@ -42,19 +42,19 @@
 
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
-
 ***
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
-***
 
 <div align="center">
 
 <h3 align="center">
-  Profile 3D Contributions
+  Profile 3D Contributions 🔰
 </h3>
 
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
+
+***
 
 <h3 align="center">
 Popular Repo 💎
@@ -65,7 +65,6 @@ Popular Repo 💎
 [<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack]
 [<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon]
 </div>
-
 
 <div align="center">
 
