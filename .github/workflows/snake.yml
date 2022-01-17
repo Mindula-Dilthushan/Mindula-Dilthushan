@@ -20,10 +20,14 @@ jobs:
     steps:
 
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
-        with:
-          github_user_name: Mindula-Dilthushan
-          svg_out_path: bot/snake/github-contribution-grid-snake.svg
+      - uses: Platane/snk@master
+          with:
+
+            github_user_name: Mindula-Dilthushan
+
+            gif_out_path: bot/snake/github-snake.gif
+
+            svg_out_path: bot/snake/github-snake.svg
 
 
       - name: push github-contribution-grid-snake.svg to the output branch
@@ -33,3 +37,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
