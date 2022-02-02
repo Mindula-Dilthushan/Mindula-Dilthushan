@@ -22,6 +22,7 @@
   ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
 - Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
 - How to reach me : minduladilthushan1@gmail.com and ⚡ My WhatsApp : +94 74 1900 680
+- Mobile Numbers : <a href="tel:+94752915762">0752915762</a>
 - My Website : [mindula-dilthushan.github.io](https://mindula-dilthushan.github.io/Mindula.Dilthushan.github.io/) 🤪
 - Contact Me : [ You want Contact me ? 😉 ](https://mindula-dilthushan.github.io/Contact-Me/)
 
@@ -467,8 +468,6 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
-
-<div style="background-color: aqua; width: 100px; height: 30px; color: black">Mobitel</div>
 
 
 
