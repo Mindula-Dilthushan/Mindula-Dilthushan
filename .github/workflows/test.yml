@@ -1,12 +1,21 @@
 name: Compact display
-uses: lowlighter/metrics@latest
-with:
-  filename: red-alpha.metrics.plugin.achievements.compact.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: >-
-    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-    scripter, packager, explorer, infographile, manager
-  plugin_achievements_display: compact
-  plugin_achievements_threshold: X
+
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: lowlighter/metrics@latest
+    with:
+      filename: red-alpha.metrics.plugin.achievements.compact.svg
+      token: ${{ secrets.METRICS_TOKEN }}
+      base: ""
+      plugin_achievements: yes
+      plugin_achievements_only: >-
+        polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+        scripter, packager, explorer, infographile, manager
+      plugin_achievements_display: compact
+      plugin_achievements_threshold: X
