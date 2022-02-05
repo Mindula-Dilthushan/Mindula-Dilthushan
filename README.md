@@ -12,6 +12,7 @@
 
 - Founder at Alpha X Software Company 🤴
 - My primary coding language : Java 🧒
+- Studied Bsc. (Hons) Cyber Security 👨‍🎓
 - Graduate in Software Engineering at IJSE 👨‍🎓
 - Completed at Cisco Certified Network Associate (CCNA) in WinSYS Networks 👨‍🎓
 - Completed at Certificate in Ethical Hacking in WinSYS Networks 👨‍🎓
