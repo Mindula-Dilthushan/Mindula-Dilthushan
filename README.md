@@ -142,7 +142,11 @@ Click And View 😇
 <details>
 <summary> <i><b>All Trophies 🏆 </b></i>
 </summary>
+
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
+</div>
 </details>
 
 ####
