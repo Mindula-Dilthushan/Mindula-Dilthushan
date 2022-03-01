@@ -393,7 +393,7 @@ Where to find me 🤙
 [Telegram]:https://t.me/alphaxcompany
 [Dribble]:https://dribbble.com/minduladilthushan
 [Dev_Community]:https://dev.to/minduladilthushan
-[Medium]:https://medium.com/@minduladilthushan1
+[Medium]:https://medium.com/@minduladilthushan
 
 
 [//]: # (Footer Section -----------------------------------------------------------------------------------------------)
