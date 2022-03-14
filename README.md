@@ -12,6 +12,7 @@
 
 - Founder at Alpha X Software Company 🤴
 - My primary coding language : Java 🧒
+- Studied Bsc. (Hons) Cyber Security in WinSYS Networks 👨‍🎓
 - Graduate in Software Engineering at IJSE 👨‍🎓
 - Completed at Cisco Certified Network Associate (CCNA) in WinSYS Networks 👨‍🎓
 - Completed at Certificate in Ethical Hacking in WinSYS Networks 👨‍🎓
@@ -22,7 +23,7 @@
   ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
 - Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
 - How to reach me : minduladilthushan1@gmail.com and ⚡ My WhatsApp : +94 74 1900 680
-- My Website : [mindula-dilthushan.github.io](https://mindula-dilthushan.github.io/Mindula.Dilthushan.github.io/) 🤪
+- My Website : [minduladilthushan](https://minduladilthushan.netlify.app/) 🤪
 - Contact Me : [ You want Contact me ? 😉 ](https://mindula-dilthushan.github.io/Contact-Me/)
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
@@ -54,23 +55,33 @@
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
 
-***
+[//]: # (***)
 
-<h3 align="center">
-Popular Repo 💎
-</h3>
+[//]: # (<h3 align="center">)
 
-<div align="center">
+[//]: # (Popular Repo 💎)
 
-[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack]
-[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon]
-</div>
+[//]: # (</h3>)
 
-<div align="center">
+[//]: # ()
+[//]: # (<div align="center">)
 
-[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting]
-[<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles]
-</div>
+[//]: # ()
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack])
+
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon])
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting])
+
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles])
+
+[//]: # (</div>)
 
 [ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
 [Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
@@ -141,7 +152,11 @@ Click And View 😇
 <details>
 <summary> <i><b>All Trophies 🏆 </b></i>
 </summary>
+
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
+</div>
 </details>
 
 ####
@@ -234,6 +249,7 @@ Click And View 😇
 <summary> <i><b>Mobile App Development 📱 </b></i>
 </summary>
 <div>
+
 
 #### 
 </div>
@@ -393,12 +409,20 @@ Where to find me 🤙
 [Telegram]:https://t.me/alphaxcompany
 [Dribble]:https://dribbble.com/minduladilthushan
 [Dev_Community]:https://dev.to/minduladilthushan
-[Medium]:https://medium.com/@minduladilthushan1
+[Medium]:https://medium.com/@minduladilthushan
 
 
 [//]: # (Footer Section -----------------------------------------------------------------------------------------------)
 
 ---
+
+<div align="center">
+
+#### ⭐ Hope someone finds this helpful someday...! 😉 [K S Vithanage © Copyrights](https://github.com/sanuv9683)
+</div>
+
+---
+
 
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
 <p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦 <br>
@@ -467,8 +491,6 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
-
-
 
 
 
