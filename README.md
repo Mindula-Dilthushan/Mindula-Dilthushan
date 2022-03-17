@@ -443,7 +443,7 @@ Where to find me 🤙
 <img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square"/>
 </p>
 
 
