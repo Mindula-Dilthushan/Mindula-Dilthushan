@@ -17,7 +17,15 @@
 
 [//]: # (End Header Section -------------------------------------------------------------------------------------------)
 
+[//]: # (Image Section ------------------------------------------------------------------------------------------------)
+
+<div align="center">
+
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/15.jpg)
+</div>
+
+[//]: # (End Image Section --------------------------------------------------------------------------------------------)
+
 
 - Founder at Alpha X Software Company 🤴
 - My primary coding language : Java 🧒
