@@ -45,19 +45,12 @@
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
-
-<div>
-
-
-</div>
-
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
-***
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 
 <div align="center">
