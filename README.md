@@ -1,7 +1,5 @@
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 
-***
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Open+Source+Developer;)](https://git.io/typing-svg)
 
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
@@ -429,6 +427,8 @@ Where to find me 🤙
 <p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦 <br>
 <img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+
 </p>
 
 
@@ -492,8 +492,6 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
-
-
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
