@@ -28,10 +28,10 @@
 
 
 - Founder at [Alpha X Software Company](https://www.facebook.com/minduladilthushan) 🤴
-- My primary coding language : [Java]() 🧒
-- Graduate in [**Software Engineering**]() at [IJSE](https://www.ijse.lk/) 👨‍🎓
-- Completed at [**Cisco Certified Network Associate (CCNA)**]() in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
-- Completed at Certificate in Ethical Hacking in WinSYS Networks 👨‍🎓
+- My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
+- Graduate in [**Software Engineering**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) at [IJSE](https://www.ijse.lk/) 👨‍🎓
+- Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
+- Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
 - Completed at Certificate in Python Machine Learning in WinSYS Networks 👨‍🎓
 - Completed at Certificate in Graphic Design in SITEC 👨‍🎓
 - Proud to be Rahula. 💙🧡
