@@ -1,10 +1,11 @@
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 
-###
+####
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Open+Source+Developer;)](https://git.io/typing-svg)
 
-###  <span style="color: #00DC3F"> Proғιle Vιewѕ </span> 🕵️‍♂️
+<h3 style="color: #15e700"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 
