@@ -32,22 +32,19 @@
 - Graduate in [**Software Engineering**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) at [IJSE](https://www.ijse.lk/) 👨‍🎓
 - Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
 - Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
-- Completed at Certificate in Python Machine Learning in WinSYS Networks 👨‍🎓
-- Completed at Certificate in Graphic Design in SITEC 👨‍🎓
-- Proud to be Rahula. 💙🧡
-- Programming Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS,
-  ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
-- Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
-- How to reach me : minduladilthushan1@gmail.com and ⚡ My WhatsApp : +94 74 1900 680
-- My Website : [minduladilthushan](https://minduladilthushan.netlify.app/) 🤪
-- My New Website : [minduladilthushanmanamperi](https://minduladilthushanmanamperi.netlify.app/)
-- Contact Me : [ You want Contact me ? 😉 ](https://mindula-dilthushan.github.io/Contact-Me/)
+- Completed at [**Certificate in Python Machine Learning**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
+- Completed at [**Certificate in Graphic Design**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [SITEC](https://www.sitec.lk/) 👨‍🎓
+- Proud to be [**Rahula**](https://rahulacollege.lk/) 💙🧡
+- Programming Skills : ***Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ElectronJs,
+  ReactJS, React Native, Flutter, Angular, Typescript, Docker, Laravel, Vue, Redux, Vite,  MySQL, MongoDB, PostgreSQL***
+- Design Skills : ***AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw***
+- How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
+- My Website : [minduladilthushan](https://minduladilthushan.netlify.app/) 📌
+- My New Website : [minduladilthushanmanamperi](https://minduladilthushanmanamperi.netlify.app/) 📌
+- Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
-- 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
-
-- 🖥 [Telegram Channel](https://t.me/alphaxcompany)
 
 <div>
 
