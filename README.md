@@ -1,50 +1,60 @@
+[//]: # (Header Section -----------------------------------------------------------------------------------------------)
+<div align="center">
+
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
+</div>
 
-***
+<div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Open+Source+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=250&lines=Software+Designer;Developer;UI%2FUX++Designer;Gamer;Photographer;Youtuber)](https://git.io/typing-svg)
+</div>
 
-### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
+<h3 align="center"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
+<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
+</div>
+
+[//]: # (End Header Section -------------------------------------------------------------------------------------------)
+
+[//]: # (Image Section ------------------------------------------------------------------------------------------------)
+
+<div align="center">
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/15.jpg)
+</div>
 
-- Founder at Alpha X Software Company 🤴
-- My primary coding language : Java 🧒
-- Studied Bsc. (Hons) Cyber Security in WinSYS Networks 👨‍🎓
-- Graduate in Software Engineering at IJSE 👨‍🎓
-- Completed at Cisco Certified Network Associate (CCNA) in WinSYS Networks 👨‍🎓
-- Completed at Certificate in Ethical Hacking in WinSYS Networks 👨‍🎓
-- Completed at Certificate in Python Machine Learning in WinSYS Networks 👨‍🎓
-- Completed at Certificate in Graphic Design in SITEC 👨‍🎓
-- Proud to be Rahula. 💙🧡
-- Programming Skills : *Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS,
-  ReactJS, React Native, Flutter, Angular, Typescript, Docker, MySQL, MongoDB, PostgreSQL*
-- Design Skills : *AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw*
-- How to reach me : minduladilthushan1@gmail.com and ⚡ My WhatsApp : +94 74 1900 680
-- My Website : [minduladilthushan](https://minduladilthushan.netlify.app/) 🤪
-- My New Website : [minduladilthushanmanamperi](https://minduladilthushanmanamperi.netlify.app/)
-- Contact Me : [ You want Contact me ? 😉 ](https://mindula-dilthushan.github.io/Contact-Me/)
+[//]: # (End Image Section --------------------------------------------------------------------------------------------)
+
+
+- Founder at [Alpha X Software Company](https://www.facebook.com/minduladilthushan) 🤴
+- My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
+- Graduate in [**Software Engineering**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) at [IJSE](https://www.ijse.lk/) 👨‍🎓
+- Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
+- Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
+- Completed at [**Certificate in Python Machine Learning**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
+- Completed at [**Certificate in Graphic Design**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [SITEC](https://www.sitec.lk/) 👨‍🎓
+- Proud to be [**Rahula**](https://rahulacollege.lk/) 💙🧡
+- Programming Skills : ***Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ElectronJs,
+  ReactJS, React Native, Flutter, Angular, Typescript, Docker, Laravel, Vue, Redux, Vite,  MySQL, MongoDB, PostgreSQL***
+- Design Skills : ***AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw***
+- How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
+- My Website : [minduladilthushan](https://minduladilthushan.netlify.app/) 📌
+- My New Website : [minduladilthushanmanamperi](https://minduladilthushanmanamperi.netlify.app/) 📌
+- Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
-- 🖥 [Facebook Page : 𝐀𝐥𝐩𝐡𝐚 𝐗 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐚𝐧𝐲](https://www.facebook.com/minduladilthushan/?ref=pages_you_manage)
-
-- 🖥 [Telegram Channel](https://t.me/alphaxcompany)
-
 <div>
 
-#
+## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 </div>
 
-## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
-***
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 
 <div align="center">
@@ -426,10 +436,17 @@ Where to find me 🤙
 
 
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
-<p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦 <br>
+<p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦
+</p>
+
+<p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 </p>
+
+
 
 
 <p align="center">
@@ -492,8 +509,6 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
-
-
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
