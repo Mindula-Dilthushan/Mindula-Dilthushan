@@ -1,13 +1,17 @@
-### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
+<div align="center">
 
-####
+### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Open+Source+Developer;)](https://git.io/typing-svg)
 
-<h3 style="color: #15e700"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
+</div>
 
+<h3 align="center"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
+
+<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
+</div>
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/15.jpg)
 
