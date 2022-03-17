@@ -1,5 +1,7 @@
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Open+Source+Developer;)](https://git.io/typing-svg)
 
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
