@@ -27,10 +27,9 @@
 [//]: # (End Image Section --------------------------------------------------------------------------------------------)
 
 
-- Founder at Alpha X Software Company 🤴
-- My primary coding language : Java 🧒
-- Studied Bsc. (Hons) Cyber Security in WinSYS Networks 👨‍🎓
-- Graduate in Software Engineering at IJSE 👨‍🎓
+- Founder at [Alpha X Software Company](https://www.facebook.com/minduladilthushan) 🤴
+- My primary coding language : [Java]() 🧒
+- Graduate in **Software Engineering** at [IJSE](https://www.ijse.lk/) 👨‍🎓
 - Completed at Cisco Certified Network Associate (CCNA) in WinSYS Networks 👨‍🎓
 - Completed at Certificate in Ethical Hacking in WinSYS Networks 👨‍🎓
 - Completed at Certificate in Python Machine Learning in WinSYS Networks 👨‍🎓
