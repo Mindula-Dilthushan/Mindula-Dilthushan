@@ -392,14 +392,6 @@ Where to find me 🤙
 </p>
 
 <p align="center">
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>
-</p>
-
-<p align="center">
 <a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
 GitHub Readme Profile Styles here ! ✌
 </a>
@@ -491,6 +483,23 @@ GitHub Readme Profile Styles here ! ✌
 [Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
 [MernStack]:https://github.com/Mindula-Dilthushan/MERN-Stack-CRUD-App-API
 [readme_File_Icon]:https://github.com/Mindula-Dilthushan/Readme-File-Icons
+
+
+
+[//]: # (<p align="center">)
+
+[//]: # (<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> )
+
+[//]: # (<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>)
+
+[//]: # (<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>)
+
+[//]: # (<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>)
+
+[//]: # (<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>)
+
+[//]: # (</p>)
+
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
