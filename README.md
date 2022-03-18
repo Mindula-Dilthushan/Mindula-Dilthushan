@@ -66,45 +66,9 @@
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
 
-[//]: # (***)
-
-[//]: # (<h3 align="center">)
-
-[//]: # (Popular Repo 💎)
-
-[//]: # (</h3>)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # ()
-[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack])
-
-[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon])
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # ()
-[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting])
-
-[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles])
-
-[//]: # (</div>)
-
-[ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
-[Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
-[MernStack]:https://github.com/Mindula-Dilthushan/MERN-Stack-CRUD-App-API
-[readme_File_Icon]:https://github.com/Mindula-Dilthushan/Readme-File-Icons
-
----
-
 <h3 align="center">
 Github Stats 🧐
 </h3>
-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
@@ -121,20 +85,16 @@ Github Stats 🧐
 
 </p>
 
----
-
 <div align="center">
 
-***My Contributions*** 😥 <br>
+**My Contributions** 😥 <br>
 ![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/red-alpha/github-contribution-grid-snake.svg)
 </div>
 
----
 
 <h3 align="center">
 Click And View 😇
 </h3>
-
 
 <details>
 <summary> <i><b>Tools 🛠</b></i>
@@ -159,7 +119,6 @@ Click And View 😇
 
 ####
 
-
 <details>
 <summary> <i><b>All Trophies 🏆 </b></i>
 </summary>
@@ -171,7 +130,6 @@ Click And View 😇
 </details>
 
 ####
-
 
 <details>
 <summary> <i><b>Most Used Languages 🎏 </b></i>
@@ -296,13 +254,11 @@ Click And View 😇
 </div>
 </details>
 
-
 ####
 <details>
 <summary> <i><b>Data Visualization 📊 </b></i>
 </summary>
 <div>
-
 
 ####
 </div>
@@ -347,7 +303,6 @@ Click And View 😇
 </div>
 </details>
 
-
 ####
 <details>
 <summary> <i><b>Software ⚙ </b></i>
@@ -383,11 +338,6 @@ Click And View 😇
 </div>
 </details>
 
-
-
----
-
-
 <h3 align="center">
 Where to find me 🤙
 </h3>
@@ -407,8 +357,6 @@ Where to find me 🤙
 
 </div>
 
-
-
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
 [Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
 [Facebook]: https://www.facebook.com/minduladilthushan.manamperi
@@ -422,17 +370,14 @@ Where to find me 🤙
 [Dev_Community]:https://dev.to/minduladilthushan
 [Medium]:https://medium.com/@minduladilthushan
 
-
 [//]: # (Footer Section -----------------------------------------------------------------------------------------------)
 
----
 
 <div align="center">
 
 #### ⭐ Hope someone finds this helpful someday...! 😉 [K S Vithanage © Copyrights](https://github.com/sanuv9683)
 </div>
 
----
 
 
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
@@ -444,17 +389,6 @@ Where to find me 🤙
 <img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square"/>
-</p>
-
-
-
-
-<p align="center">
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>
 </p>
 
 <p align="center">
@@ -509,6 +443,63 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
+
+[//]: # (***)
+
+[//]: # ()
+[//]: # (<h3 align="center">)
+
+[//]: # ()
+[//]: # (Popular Repo 💎)
+
+[//]: # ()
+[//]: # (</h3>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # ()
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack])
+
+[//]: # ()
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon])
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting])
+
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles])
+
+[//]: # (</div>)
+
+[ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
+[Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
+[MernStack]:https://github.com/Mindula-Dilthushan/MERN-Stack-CRUD-App-API
+[readme_File_Icon]:https://github.com/Mindula-Dilthushan/Readme-File-Icons
+
+
+
+[//]: # (<p align="center">)
+
+[//]: # (<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> )
+
+[//]: # (<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>)
+
+[//]: # (<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>)
+
+[//]: # (<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>)
+
+[//]: # (<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>)
+
+[//]: # (</p>)
+
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
