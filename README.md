@@ -66,41 +66,6 @@
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
 
-[//]: # (***)
-
-[//]: # (<h3 align="center">)
-
-[//]: # (Popular Repo 💎)
-
-[//]: # (</h3>)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # ()
-[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack])
-
-[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon])
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # ()
-[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting])
-
-[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles])
-
-[//]: # (</div>)
-
-[ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
-[Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
-[MernStack]:https://github.com/Mindula-Dilthushan/MERN-Stack-CRUD-App-API
-[readme_File_Icon]:https://github.com/Mindula-Dilthushan/Readme-File-Icons
-
----
-
 <h3 align="center">
 Github Stats 🧐
 </h3>
@@ -509,6 +474,46 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
+
+[//]: # (***)
+
+[//]: # ()
+[//]: # (<h3 align="center">)
+
+[//]: # ()
+[//]: # (Popular Repo 💎)
+
+[//]: # ()
+[//]: # (</h3>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # ()
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack])
+
+[//]: # ()
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon])
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting])
+
+[//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles])
+
+[//]: # (</div>)
+
+[ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
+[Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
+[MernStack]:https://github.com/Mindula-Dilthushan/MERN-Stack-CRUD-App-API
+[readme_File_Icon]:https://github.com/Mindula-Dilthushan/Readme-File-Icons
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
 <!--
