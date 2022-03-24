@@ -351,21 +351,19 @@ Where to find me 🤙
 [<img height="25" src = "https://img.shields.io/badge/instragram-00614A.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
 [<img height="25" src = "https://img.shields.io/badge/tumblr-00614A.svg?&style=for-the-badge&logo=tumblr&logoColor=white">][Tumblr]
 [<img height="25" src = "https://img.shields.io/badge/reddit-00614A.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
-[<img height="25" src = "https://img.shields.io/badge/telegram-00614A.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 [<img height="25" src = "https://img.shields.io/badge/DEV%20Community-00614A.svg?&style=for-the-badge&logo=dev&logoColor=white">][Dev_Community]
 [<img height="25" src = "https://img.shields.io/badge/Medium-00614A.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
 
 </div>
 
-[linkedin]: https://www.linkedin.com/in/mindula-dilthushan-081a11185/
-[Youtube]: https://www.youtube.com/channel/UCJL3S9dlNvlSi_QhBTCUiRQ?disable_polymer=true
+[linkedin]: https://www.linkedin.com/in/mindula-dilthushan
 [Facebook]: https://www.facebook.com/minduladilthushan.manamperi
 [WhatsApp]: https://wa.me/0741900680
-[Twitter]: https://twitter.com/MindulaDilthus8
+[Twitter]: https://twitter.com/Mindula2000
+[Youtube]: https://www.youtube.com/Mindula-dilthushan
 [Instragram]: https://www.instagram.com/mindula_dilthushan/
-[Tumblr]:https://www.tumblr.com/dashboard
+[Tumblr]:https://www.tumblr.com/blog/minduladilthushan23
 [Reddit]:https://www.reddit.com/user/Loose_Essay9560
-[Telegram]:https://t.me/alphaxcompany
 [Dribble]:https://dribbble.com/minduladilthushan
 [Dev_Community]:https://dev.to/minduladilthushan
 [Medium]:https://medium.com/@minduladilthushan
@@ -375,10 +373,8 @@ Where to find me 🤙
 
 <div align="center">
 
-#### ⭐ Hope someone finds this helpful someday...! 😉 [K S Vithanage © Copyrights](https://github.com/sanuv9683)
+#### ⭐ Hope someone finds this helpful someday...! 😉 [© K S Vithanage All Rights Reserved](https://github.com/sanuv9683)
 </div>
-
-
 
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
 <p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦
