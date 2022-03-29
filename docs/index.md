@@ -2,6 +2,13 @@
 
 ## Welcome to GitHub Pages
 
+<div align="center">
+    
+    Hi There,
+    I Am Mindula Dilthushan ^_~
+
+</div>
+
 </div>
 
 [//]: # (You can use the [editor on GitHub]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/edit/master/docs/index.md&#41; to maintain and preview the content for your website in Markdown files.)
