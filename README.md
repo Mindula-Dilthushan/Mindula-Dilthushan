@@ -27,7 +27,7 @@
 [//]: # (End Image Section --------------------------------------------------------------------------------------------)
 
 
-- Founder at [Alpha X Software Company](https://www.facebook.com/minduladilthushan) 🤴
+- Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
 - My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
 - Graduate in [**Software Engineering**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) at [IJSE](https://www.ijse.lk/) 👨‍🎓
 - Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
