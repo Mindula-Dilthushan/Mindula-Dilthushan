@@ -153,9 +153,8 @@ Click And View 😇
 </div>
 <div align="center">
 
-[![Java Badge](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&labelColor=black&logo=java&logoColor=f89820)](#)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>)
+[![Java Badge](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&labelColor=black&logo=java&logoColor=f89820)](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)](#)
 
 [//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>)
 
