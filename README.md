@@ -153,26 +153,15 @@ Click And View 😇
 </div>
 <div align="center">
 
-[![Java Badge](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&labelColor=black&logo=java&logoColor=f89820)](#) 
+[![Java Badge](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&labelColor=black&logo=java&logoColor=f89820)](#)
+[![scala Badge](https://img.shields.io/badge/-scala-69455c?style=for-the-badge&labelColor=black&logo=scala&logoColor=69455c)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)](#)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="37" height="37"/>)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/>)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="37" height="37"/>)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="37" height="37"/>)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="37" height="37"/>)
-
-[//]: # (<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="37" height="37"/>)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="37" height="37"/>)
-
-[//]: # (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="37" height="37"/>)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=Javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=007acc)](#)
+[![PHP Badge](https://img.shields.io/badge/-php-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#)
+[![Go Badge](https://img.shields.io/badge/-Go-29BEB0?style=for-the-badge&labelColor=black&logo=Go&logoColor=29BEB0)](#)
+[![swift Badge](https://img.shields.io/badge/-swift-F05138?style=for-the-badge&labelColor=black&logo=swift&logoColor=F05138)](#)
+[![ruby Badge](https://img.shields.io/badge/-ruby-e0115f?style=for-the-badge&labelColor=black&logo=ruby&logoColor=e0115f)](#)
 
 </div>
 </details>
