@@ -39,10 +39,9 @@
   ReactJS, React Native, Flutter, Angular, Typescript, Docker, Laravel, Vue, Redux, Vite,  MySQL, MongoDB, PostgreSQL***
 - Design Skills : ***AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw***
 - How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
+- My Website : [minduladilthushan](https://minduladilthushan.netlify.app/) 📌
 - Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
 
-
-[//]: # (- My Website : [minduladilthushan]&#40;https://minduladilthushan.netlify.app/&#41; 📌)
 [//]: # (- My New Website : [minduladilthushanmanamperi]&#40;https://minduladilthushanmanamperi.netlify.app/&#41; 📌)
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
