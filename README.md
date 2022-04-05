@@ -2,6 +2,7 @@
 <div align="center">
 
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
+
 </div>
 
 <div align="center"> 
@@ -26,35 +27,53 @@
 
 [//]: # (End Image Section --------------------------------------------------------------------------------------------)
 
-
 - Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
 - My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
-- Graduate in [**Software Engineering**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) at [IJSE](https://www.ijse.lk/) 👨‍🎓
-- Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
-- Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
-- Completed at [**Certificate in Python Machine Learning**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
-- Completed at [**Certificate in Graphic Design**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) in [SITEC](https://www.sitec.lk/) 👨‍🎓
+- Graduate in [**Software Engineering**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
+  at [IJSE](https://www.ijse.lk/) 👨‍🎓
+- Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
+  in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
+- Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
+  in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
+- Completed at [**Certificate in Python Machine Learning**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
+  in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
+- Completed at [**Certificate in Graphic Design**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
+  in [SITEC](https://www.sitec.lk/) 👨‍🎓
 - Proud to be [**Rahula**](https://rahulacollege.lk/) 💙🧡
-- Programming Skills : ***Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS, ElectronJs,
-  ReactJS, React Native, Flutter, Angular, Typescript, Docker, Laravel, Vue, Redux, Vite,  MySQL, MongoDB, PostgreSQL***
-- Design Skills : ***AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel Draw***
-- How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
-- My Website : [minduladilthushan](https://minduladilthushan.netlify.app/) 📌
+- Programming Skills : ***Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS,
+  ElectronJs, ReactJS, React Native, Flutter, Angular, Typescript, Docker, Laravel, Vue, Redux, Vite, MySQL, MongoDB,
+  PostgreSQL***
+- Design Skills : ***AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel
+  Draw***
+- How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My
+  WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
 - Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
 
-[//]: # (- My New Website : [minduladilthushanmanamperi]&#40;https://minduladilthushanmanamperi.netlify.app/&#41; 📌)
+[//]: # (start portfolio site section ---------------------------------------------------------------------------------)
+<div align="center">
+
+### My Portfolio Website : [minduladilthushan](https://minduladilthushan.netlify.app/)  🔍
+
+</div>
+
+[//]: # (end portfolio site section -----------------------------------------------------------------------------------)
+
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
+[//]: # (Donation -------------------------------------------------------------------------------------------------)
 <div>
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
-</div>
 
+</div>
 
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
-<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important;"></a>
+
+[//]: # (Donation -------------------------------------------------------------------------------------------------)
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 
@@ -147,7 +166,7 @@ Click And View 😇
 </summary>
 <div>
 
-#### 
+####  
 
 </div>
 <div align="center">
@@ -172,7 +191,8 @@ Click And View 😇
 </summary>
 <div>
 
-#### 
+####  
+
 </div>
 <div align="center">
 
@@ -192,12 +212,14 @@ Click And View 😇
 </details>
 
 ####
+
 <details>
 <summary> <i><b>Backend Development 🖥 </b></i>
 </summary>
 <div>
 
-#### 
+####  
+
 </div>
 <div align="center">
 
@@ -211,13 +233,14 @@ Click And View 😇
 </details>
 
 ####
+
 <details>
 <summary> <i><b>Mobile App Development 📱 </b></i>
 </summary>
 <div>
 
+####  
 
-#### 
 </div>
 <div align="center">
 
@@ -232,12 +255,14 @@ Click And View 😇
 </details>
 
 ####
+
 <details>
 <summary> <i><b>Database 🛢 </b></i>
 </summary>
 <div>
 
-#### 
+####  
+
 </div>
 <div align="center">
 
@@ -252,12 +277,14 @@ Click And View 😇
 </details>
 
 ####
+
 <details>
 <summary> <i><b>Data Visualization 📊 </b></i>
 </summary>
 <div>
 
 ####
+
 </div>
 <div align="center">
 
@@ -268,12 +295,14 @@ Click And View 😇
 </details>
 
 ####
+
 <details>
 <summary> <i><b>Backend as a Service 🖥 </b></i>
 </summary>
 <div>
 
 ####
+
 </div>
 <div align="center">
 
@@ -282,14 +311,15 @@ Click And View 😇
 </div>
 </details>
 
-
 ####
+
 <details>
 <summary> <i><b>Framework 🖥 </b></i>
 </summary>
 <div>
 
 ####
+
 </div>
 <div align="center">
 
@@ -301,12 +331,14 @@ Click And View 😇
 </details>
 
 ####
+
 <details>
 <summary> <i><b>Software ⚙ </b></i>
 </summary>
 <div>
 
 ####
+
 </div>
 <div align="center">
 
@@ -319,14 +351,15 @@ Click And View 😇
 </div>
 </details>
 
-
 ####
+
 <details>
 <summary> <i><b>Game Engines 🎮 </b></i>
 </summary>
 <div>
 
 ####
+
 </div>
 <div align="center">
 
@@ -354,15 +387,25 @@ Where to find me 🤙
 </div>
 
 [linkedin]: https://www.linkedin.com/in/mindula-dilthushan
+
 [Facebook]: https://www.facebook.com/minduladilthushan.manamperi
+
 [WhatsApp]: https://wa.me/0741900680
+
 [Twitter]: https://twitter.com/Mindula2000
+
 [Youtube]: https://www.youtube.com/Mindula-dilthushan
+
 [Instragram]: https://www.instagram.com/mindula_dilthushan/
+
 [Tumblr]:https://www.tumblr.com/blog/minduladilthushan23
+
 [Reddit]:https://www.reddit.com/user/Loose_Essay9560
+
 [Dribble]:https://dribbble.com/minduladilthushan
+
 [Dev_Community]:https://dev.to/minduladilthushan
+
 [Medium]:https://medium.com/@minduladilthushan
 
 [//]: # (Footer Section -----------------------------------------------------------------------------------------------)
@@ -371,11 +414,14 @@ Where to find me 🤙
 <div align="center">
 
 #### ⭐ Hope someone finds this helpful someday...! 😉 [© K S Vithanage All Rights Reserved](https://github.com/sanuv9683)
+
 </div>
 
-<h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
-<p align="center"> 𝔐𝔦𝔫𝔡𝔲𝔩𝔞 𝔇𝔦𝔩𝔱𝔥𝔲𝔰𝔥𝔞𝔫 𝔐𝔞𝔫𝔞𝔪𝔭𝔢𝔯𝔦
-</p>
+<h4 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
+<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
+</h4>
 
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
@@ -384,55 +430,19 @@ Where to find me 🤙
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
-GitHub Readme Profile Styles here ! ✌
-</a>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">)
+
+[//]: # (GitHub Readme Profile Styles here ! ✌)
+
+[//]: # (</a>)
+
+[//]: # (</p>)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 [comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
@@ -440,32 +450,43 @@ GitHub Readme Profile Styles here ! ✌
 [//]: # (***)
 
 [//]: # ()
+
 [//]: # (<h3 align="center">)
 
 [//]: # ()
+
 [//]: # (Popular Repo 💎)
 
 [//]: # ()
+
 [//]: # (</h3>)
 
 [//]: # ()
+
 [//]: # ()
+
 [//]: # (<div align="center">)
 
 [//]: # ()
+
 [//]: # ()
+
 [//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=MERN-Stack-CRUD-App-API&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][MernStack])
 
 [//]: # ()
+
 [//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Icons&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][readme_File_Icon])
 
 [//]: # ()
+
 [//]: # (</div>)
 
 [//]: # ()
+
 [//]: # (<div align="center">)
 
 [//]: # ()
+
 [//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=ax-hosting&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][ax-hosting])
 
 [//]: # ([<img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Mindula-Dilthushan&repo=Readme-File-Styles&bg_color=0C1014&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a"/>][Readme-File-Styles])
@@ -473,10 +494,12 @@ GitHub Readme Profile Styles here ! ✌
 [//]: # (</div>)
 
 [ax-hosting]:https://github.com/Mindula-Dilthushan/ax-hosting
-[Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
-[MernStack]:https://github.com/Mindula-Dilthushan/MERN-Stack-CRUD-App-API
-[readme_File_Icon]:https://github.com/Mindula-Dilthushan/Readme-File-Icons
 
+[Readme-File-Styles]:https://github.com/Mindula-Dilthushan/Readme-File-Styles
+
+[MernStack]:https://github.com/Mindula-Dilthushan/MERN-Stack-CRUD-App-API
+
+[readme_File_Icon]:https://github.com/Mindula-Dilthushan/Readme-File-Icons
 
 
 [//]: # (<p align="center">)
@@ -495,19 +518,31 @@ GitHub Readme Profile Styles here ! ✌
 
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
-<!--
-**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[//]: # (<!--)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[//]: # (**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
 
--->
+[//]: # ()
+[//]: # (Here are some ideas to get you started:)
+
+[//]: # ()
+[//]: # (- 🔭 I’m currently working on ...)
+
+[//]: # (- 🌱 I’m currently learning ...)
+
+[//]: # (- 👯 I’m looking to collaborate on ...)
+
+[//]: # (- 🤔 I’m looking for help with ...)
+
+[//]: # (- 💬 Ask me about ...)
+
+[//]: # (- 📫 How to reach me: ...)
+
+[//]: # (- 😄 Pronouns: ...)
+
+[//]: # (- ⚡ Fun fact: ...)
+
+[//]: # ()
+[//]: # (-->)
 
