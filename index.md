@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+[//]: # (## Welcome to GitHub Pages)
 
-You can use the [editor on GitHub](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[//]: # ()
+[//]: # (You can use the [editor on GitHub]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/edit/gh-pages/index.md&#41; to maintain and preview the content for your website in Markdown files.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[//]: # ()
+[//]: # (Whenever you commit to this repository, GitHub Pages will run [Jekyll]&#40;https://jekyllrb.com/&#41; to rebuild the pages in your site, from the content in your Markdown files.)
 
-### Markdown
+[//]: # ()
+[//]: # (### Markdown)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[//]: # ()
+[//]: # (Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for)
 
-```markdown
-Syntax highlighted code block
+[//]: # ()
+[//]: # (```markdown)
 
-# Header 1
-## Header 2
-### Header 3
+[//]: # (Syntax highlighted code block)
 
-- Bulleted
-- List
+[//]: # ()
+[//]: # (# Header 1)
 
-1. Numbered
-2. List
+[//]: # (## Header 2)
 
-**Bold** and _Italic_ and `Code` text
+[//]: # (### Header 3)
 
-[Link](url) and ![Image](src)
-```
+[//]: # ()
+[//]: # (- Bulleted)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[//]: # (- List)
 
-### Jekyll Themes
+[//]: # ()
+[//]: # (1. Numbered)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[//]: # (2. List)
 
-### Support or Contact
+[//]: # ()
+[//]: # (**Bold** and _Italic_ and `Code` text)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[//]: # ()
+[//]: # ([Link]&#40;url&#41; and ![Image]&#40;src&#41;)
+
+[//]: # (```)
+
+[//]: # ()
+[//]: # (For more details see [Basic writing and formatting syntax]&#40;https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&#41;.)
+
+[//]: # ()
+[//]: # (### Jekyll Themes)
+
+[//]: # ()
+[//]: # (Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]&#40;https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/settings/pages&#41;. The name of this theme is saved in the Jekyll `_config.yml` configuration file.)
+
+[//]: # ()
+[//]: # (### Support or Contact)
+
+[//]: # ()
+[//]: # (Having trouble with Pages? Check out our [documentation]&#40;https://docs.github.com/categories/github-pages-basics/&#41; or [contact support]&#40;https://support.github.com/contact&#41; and we’ll help you sort it out.)
+
+<div align="center">
+
+# Welcome My GitHub Page 🎃
+
+</div>
