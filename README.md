@@ -417,11 +417,11 @@ Where to find me 🤙
 
 </div>
 
-<h3 align="center">
+<h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
-
-𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
-</h3>
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
+<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
+</h4>
 
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>
@@ -518,19 +518,31 @@ Where to find me 🤙
 
 
 [comment]: <> (Basic---------------------------------------------------------------------------------------------------------------------------)
-<!--
-**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[//]: # (<!--)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[//]: # (**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
 
--->
+[//]: # ()
+[//]: # (Here are some ideas to get you started:)
+
+[//]: # ()
+[//]: # (- 🔭 I’m currently working on ...)
+
+[//]: # (- 🌱 I’m currently learning ...)
+
+[//]: # (- 👯 I’m looking to collaborate on ...)
+
+[//]: # (- 🤔 I’m looking for help with ...)
+
+[//]: # (- 💬 Ask me about ...)
+
+[//]: # (- 📫 How to reach me: ...)
+
+[//]: # (- 😄 Pronouns: ...)
+
+[//]: # (- ⚡ Fun fact: ...)
+
+[//]: # ()
+[//]: # (-->)
 
