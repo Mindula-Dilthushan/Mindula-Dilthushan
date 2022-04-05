@@ -41,24 +41,29 @@
 - How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
 - Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
 
+[//]: # (start portfolio site section ---------------------------------------------------------------------------------)
 <div align="center">
 
 ### My Portfolio Website : [minduladilthushan](https://minduladilthushan.netlify.app/)  🔍
 </div>
 
-[//]: # (- My New Website : [minduladilthushanmanamperi]&#40;https://minduladilthushanmanamperi.netlify.app/&#41; 📌)
+[//]: # (end portfolio site section -----------------------------------------------------------------------------------)
+
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
+[//]: # (Donation -------------------------------------------------------------------------------------------------)
 <div>
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 </div>
 
-
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
-<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important;"></a>
+
+[//]: # (Donation -------------------------------------------------------------------------------------------------)
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
 
