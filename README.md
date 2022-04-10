@@ -423,7 +423,7 @@ Where to find me 🤙
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
 </h4>
 
-<p align="center">
+<div align="center">
 
 ![repo size](https://img.shields.io/github/repo-size/Mindula-Dilthushan/Mindula-Dilthushan?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?&labelColor=black&color=0fb9b1&style=for-the-badge)
@@ -437,7 +437,8 @@ Where to find me 🤙
 [//]: # (<img alt="Repo Size" src="https://img.shields.io/github/repo-size/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>)
 
 [//]: # (<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square"/>)
-</p>
+
+</div>
 
 [//]: # (<p align="center">)
 
