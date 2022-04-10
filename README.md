@@ -166,7 +166,7 @@ Click And View 😇
 </summary>
 <div>
 
-####  
+####   
 
 </div>
 <div align="center">
@@ -191,22 +191,19 @@ Click And View 😇
 </summary>
 <div>
 
-####  
+####   
 
 </div>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="34" height="34"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="34" height="34"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="34" height="34"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="34" height="34"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="34" height="34"/> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="37" height="37"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="34" height="34"/>
-<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="37" height="37"/>
+[![Html5 Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](#)
+[![Css3 Badge](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)](#)
+[![bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=563d7c)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#)
+[![angular Badge](https://img.shields.io/badge/-angular-a6120d?style=for-the-badge&labelColor=black&logo=angular&logoColor=a6120d)](#)
+[![Redux Badge](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764abc)](#)
+[![Sass Badge](https://img.shields.io/badge/-Sass-CD6799?style=for-the-badge&labelColor=black&logo=Sass&logoColor=CD6799)](#)
+[![Svelte Badge](https://img.shields.io/badge/-Svelte-eb2f06?style=for-the-badge&labelColor=black&logo=Svelte&logoColor=eb2f06)](#)
 
 </div>
 </details>
@@ -218,7 +215,7 @@ Click And View 😇
 </summary>
 <div>
 
-####  
+####   
 
 </div>
 <div align="center">
@@ -239,7 +236,7 @@ Click And View 😇
 </summary>
 <div>
 
-####  
+####   
 
 </div>
 <div align="center">
@@ -261,7 +258,7 @@ Click And View 😇
 </summary>
 <div>
 
-####  
+####   
 
 </div>
 <div align="center">
@@ -430,25 +427,15 @@ Where to find me 🤙
 ![GitHub stars](https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/Mindula-Dilthushan/Mindula-Dilthushan?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
-[//]: # (<img alt="Stars" src="https://img.shields.io/github/stars/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>)
-
-[//]: # (<img alt="Forks" src="https://img.shields.io/github/forks/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>)
-
-[//]: # (<img alt="Repo Size" src="https://img.shields.io/github/repo-size/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square&labelColor=343b41"/>)
-
-[//]: # (<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mindula-Dilthushan/Mindula-Dilthushan?style=flat-square"/>)
-
 </div>
 
-[//]: # (<p align="center">)
+<div align="center">
+<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
 
-[//]: # (<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">)
+GitHub Readme Profile Styles here ! ✌
 
-[//]: # (GitHub Readme Profile Styles here ! ✌)
-
-[//]: # (</a>)
-
-[//]: # (</p>)
+</a>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
@@ -534,9 +521,11 @@ Where to find me 🤙
 [//]: # (**Mindula-Dilthushan/Mindula-Dilthushan** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
 
 [//]: # ()
+
 [//]: # (Here are some ideas to get you started:)
 
 [//]: # ()
+
 [//]: # (- 🔭 I’m currently working on ...)
 
 [//]: # (- 🌱 I’m currently learning ...)
@@ -554,5 +543,6 @@ Where to find me 🤙
 [//]: # (- ⚡ Fun fact: ...)
 
 [//]: # ()
+
 [//]: # (-->)
 
