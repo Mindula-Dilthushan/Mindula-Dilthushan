@@ -371,15 +371,15 @@ Where to find me 🤙
 <div align="center">
 
 [<img height="29" src = "https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="25" src = "https://img.shields.io/badge/Youtube-000000.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
-[<img height="25" src = "https://img.shields.io/badge/Facebook-000000.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-[<img height="25" src = "https://img.shields.io/badge/Whatsapp-000000.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
-[<img height="25" src = "https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
-[<img height="25" src = "https://img.shields.io/badge/instragram-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
-[<img height="25" src = "https://img.shields.io/badge/tumblr-000000.svg?&style=for-the-badge&logo=tumblr&logoColor=white">][Tumblr]
-[<img height="25" src = "https://img.shields.io/badge/reddit-000000.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
-[<img height="25" src = "https://img.shields.io/badge/DEV%20Community-000000.svg?&style=for-the-badge&logo=dev&logoColor=white">][Dev_Community]
-[<img height="25" src = "https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
+[<img height="29" src = "https://img.shields.io/badge/Youtube-000000.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
+[<img height="29" src = "https://img.shields.io/badge/Facebook-000000.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="29" src = "https://img.shields.io/badge/Whatsapp-000000.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
+[<img height="29" src = "https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
+[<img height="29" src = "https://img.shields.io/badge/instragram-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
+[<img height="29" src = "https://img.shields.io/badge/tumblr-000000.svg?&style=for-the-badge&logo=tumblr&logoColor=white">][Tumblr]
+[<img height="29" src = "https://img.shields.io/badge/reddit-000000.svg?&style=for-the-badge&logo=reddit&logoColor=white">][Reddit]
+[<img height="29" src = "https://img.shields.io/badge/DEV%20Community-000000.svg?&style=for-the-badge&logo=dev&logoColor=white">][Dev_Community]
+[<img height="29" src = "https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white">][Medium]
 
 </div>
 
