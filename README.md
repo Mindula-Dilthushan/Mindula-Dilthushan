@@ -370,7 +370,7 @@ Where to find me 🤙
 </h3>
 <div align="center">
 
-[<img height="25" src = "https://img.shields.io/badge/linkedin-00614A.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="25" src = "https://img.shields.io/badge/linkedin-20C20E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="25" src = "https://img.shields.io/badge/Youtube-00614A.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 [<img height="25" src = "https://img.shields.io/badge/Facebook-00614A.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="25" src = "https://img.shields.io/badge/Whatsapp-00614A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
