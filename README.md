@@ -2,7 +2,6 @@
 <div align="center">
 
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
-
 </div>
 
 <div align="center"> 
@@ -53,11 +52,9 @@
 <div align="center">
 
 ### My Portfolio Website : [minduladilthushan](https://minduladilthushan.netlify.app/)  🔍
-
 </div>
 
 [//]: # (end portfolio site section -----------------------------------------------------------------------------------)
-
 
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
 
