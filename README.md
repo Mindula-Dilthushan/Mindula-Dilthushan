@@ -56,7 +56,12 @@
 
 [//]: # (end portfolio site section -----------------------------------------------------------------------------------)
 
+<div align="center">
+
 <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
+
+</div>
+
 
 [//]: # (Donation -------------------------------------------------------------------------------------------------)
 <div>
