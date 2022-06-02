@@ -1,7 +1,9 @@
 [//]: # (Header Section -----------------------------------------------------------------------------------------------)
+
 <div align="center">
 
 ### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
+
 </div>
 
 <div align="center"> 
