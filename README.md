@@ -1,8 +1,8 @@
-[//]: # (Header Section -----------------------------------------------------------------------------------------------)
-
 <div align="center">
 
-### Hi there <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
+[//]: # (<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px"> )
+
+### Hi there , I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 
 </div>
 
@@ -17,16 +17,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 </div>
 
-[//]: # (End Header Section -------------------------------------------------------------------------------------------)
-
-[//]: # (Image Section ------------------------------------------------------------------------------------------------)
 
 <div align="center">
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/15.jpg)
 </div>
 
-[//]: # (End Image Section --------------------------------------------------------------------------------------------)
 
 - Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
 - My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
@@ -50,22 +46,18 @@
   WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
 - Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
 
-[//]: # (start portfolio site section ---------------------------------------------------------------------------------)
 <div align="center">
 
 ### My Portfolio Website : [minduladilthushan](https://minduladilthushan.netlify.app/)  🔍
-</div>
 
-[//]: # (end portfolio site section -----------------------------------------------------------------------------------)
+</div>
 
 <div align="center">
 
-<img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
-
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
 </div>
 
 
-[//]: # (Donation -------------------------------------------------------------------------------------------------)
 <div>
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
@@ -75,8 +67,6 @@
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important;"></a>
-
-[//]: # (Donation -------------------------------------------------------------------------------------------------)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
@@ -136,8 +126,10 @@ Click And View 😇
 <details>
 <summary> <i> <b>Top Languages Repo and Commit Details 🎉 </b></i> </summary>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark"/>
+
+![topLan1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark)
+![topLan2](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark)
+
 </div>
 </details>
 
@@ -170,7 +162,7 @@ Click And View 😇
 </summary>
 <div>
 
-####   
+####    
 
 </div>
 <div align="center">
@@ -195,7 +187,7 @@ Click And View 😇
 </summary>
 <div>
 
-####   
+####    
 
 </div>
 <div align="center">
@@ -219,7 +211,7 @@ Click And View 😇
 </summary>
 <div>
 
-####   
+####    
 
 </div>
 <div align="center">
@@ -240,7 +232,7 @@ Click And View 😇
 </summary>
 <div>
 
-####   
+####    
 
 </div>
 <div align="center">
@@ -262,7 +254,7 @@ Click And View 😇
 </summary>
 <div>
 
-####   
+####    
 
 </div>
 <div align="center">
@@ -409,7 +401,6 @@ Where to find me 🤙
 
 [Medium]:https://medium.com/@minduladilthushan
 
-[//]: # (Footer Section -----------------------------------------------------------------------------------------------)
 
 
 <div align="center">
@@ -421,7 +412,9 @@ Where to find me 🤙
 <h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
-<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
+
+[//]: # (<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">)
+
 </h4>
 
 <div align="center">
@@ -549,4 +542,3 @@ GitHub Readme Profile Styles here ! ✌
 [//]: # ()
 
 [//]: # (-->)
-
