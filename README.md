@@ -17,16 +17,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 </div>
 
-[//]: # (End Header Section -------------------------------------------------------------------------------------------)
-
-[//]: # (Image Section ------------------------------------------------------------------------------------------------)
 
 <div align="center">
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/15.jpg)
 </div>
 
-[//]: # (End Image Section --------------------------------------------------------------------------------------------)
 
 - Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
 - My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
@@ -58,9 +54,12 @@
 
 <div align="center">
 
-<img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif?raw=true" width="300" height="300"/>
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
 
-</div>
+
+[//]: # (<img align="right" alt="GIF" src="?raw=true" />)
+[//]: # ()
+[//]: # (</div>)
 
 
 [//]: # (Donation -------------------------------------------------------------------------------------------------)
