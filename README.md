@@ -55,14 +55,9 @@
 <div align="center">
 
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
+</div>
 
 
-[//]: # (<img align="right" alt="GIF" src="?raw=true" />)
-[//]: # ()
-[//]: # (</div>)
-
-
-[//]: # (Donation -------------------------------------------------------------------------------------------------)
 <div>
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
@@ -72,8 +67,6 @@
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important;"></a>
-
-[//]: # (Donation -------------------------------------------------------------------------------------------------)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
@@ -133,8 +126,10 @@ Click And View 😇
 <details>
 <summary> <i> <b>Top Languages Repo and Commit Details 🎉 </b></i> </summary>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark"/>
+
+![topLan1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark)
+![topLan2](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark)
+
 </div>
 </details>
 
@@ -406,7 +401,6 @@ Where to find me 🤙
 
 [Medium]:https://medium.com/@minduladilthushan
 
-[//]: # (Footer Section -----------------------------------------------------------------------------------------------)
 
 
 <div align="center">
@@ -548,4 +542,3 @@ GitHub Readme Profile Styles here ! ✌
 [//]: # ()
 
 [//]: # (-->)
-
