@@ -217,10 +217,10 @@ Click And View 😇
 <div align="center">
 
 [![Spring Badge](https://img.shields.io/badge/-Spring-5e8d5a?style=for-the-badge&labelColor=black&logo=spring&logoColor=5e8d5a)](#)
-[![Spring Badge](https://img.shields.io/badge/-nodejs-3c873a?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3c873a)](#)
-[![Spring Badge](https://img.shields.io/badge/-ExpressJs-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
-[![Spring Badge](https://img.shields.io/badge/-nestjs-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
-[![Spring Badge](https://img.shields.io/badge/-graphql-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
+[![nodejs Badge](https://img.shields.io/badge/-nodejs-3c873a?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3c873a)](#)
+[![ExpressJs Badge](https://img.shields.io/badge/-ExpressJs-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
+[![nestjs Badge](https://img.shields.io/badge/-nestjs-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
+[![graphql Badge](https://img.shields.io/badge/-graphql-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 
 </div>
 </details>
