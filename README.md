@@ -220,8 +220,7 @@ Click And View 😇
 [![Spring Badge](https://img.shields.io/badge/-nodejs-3c873a?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3c873a)](#)
 [![Spring Badge](https://img.shields.io/badge/-ExpressJs-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 [![Spring Badge](https://img.shields.io/badge/-nestjs-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
-
-[//]: # (<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/>)
+[![Spring Badge](https://img.shields.io/badge/-graphql-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 
 </div>
 </details>
