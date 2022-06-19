@@ -84,7 +84,24 @@
 Github Stats 🧐
 </h3>
 
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+
+<div align="center">
+<details>
+<summary> 2022 GitHub Commits
+</summary>
+<div align="center">
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+
+</div>
+</details>
+
+</div>
+
+
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
 
