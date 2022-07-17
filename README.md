@@ -55,9 +55,6 @@
 <div>
 
 
-#### Workflows stats badge
-[![pages-build-deployment](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment)
-
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
@@ -289,6 +286,19 @@ Click And View 😇
 [Dev_Community]:https://dev.to/minduladilthushan
 
 [Medium]:https://medium.com/@minduladilthushan
+
+
+<p align="center">
+<b>
+  Workflows stats badges 🤙
+</b>
+</p>
+
+<div align="center">
+
+[![pages-build-deployment](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment)
+
+</div>
 
 <p align="center">
 <b>
