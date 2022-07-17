@@ -1,7 +1,14 @@
+[//]: # (Mindula Dilthushan Manamperi)
+[//]: # (minduladilthushan1@gmail.com)
+[//]: # (22.07.17)
+
+[//]: # (contents -----------------------------------------------------------------------------------------------------)
+
 <div align="center">
 
 ### Hi there  <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 </div>
+
 
 <div align="center"> 
 
@@ -23,6 +30,7 @@
 
 - Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
 - My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
+- Reading [Software Engineering (Top-up) - BEng (Hons)]()👨‍🎓
 - Graduate in [**Software Engineering**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
   at [IJSE](https://www.ijse.lk/) 👨‍🎓
 - Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
@@ -34,11 +42,6 @@
 - Completed at [**Certificate in Graphic Design**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
   in [SITEC](https://www.sitec.lk/) 👨‍🎓
 - Proud to be [**Rahula**](https://rahulacollege.lk/) 💙🧡
-- Programming Skills : ***Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS,
-  ElectronJs, ReactJS, React Native, Flutter, Angular, Typescript, Docker, Laravel, Vue, Redux, Vite, MySQL, MongoDB,
-  PostgreSQL***
-- Design Skills : ***AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel
-  Draw***
 - How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My
   WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
 - Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
@@ -81,7 +84,11 @@
 Github Stats 🧐
 </h3>
 
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
+
+</div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
 
@@ -124,18 +131,6 @@ Github Stats 🧐
 Click And View 😇
 </h3>
 
-<details>
-<summary> <i><b>Tools 🛠</b></i>
-</summary>
-<div align="center">
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00614A)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=00614A)
-
-</div>
-</details>
-
-####
 
 <details>
 <summary> <i> <b>Top Languages Repo and Commit Details 🎉 </b></i> </summary>
@@ -149,15 +144,19 @@ Click And View 😇
 
 ####
 
-<details>
-<summary> <i><b>All Trophies 🏆 </b></i>
-</summary>
+[//]: # (<details>)
 
-<div align="center">
+[//]: # (<summary> <i><b>All Trophies 🏆 </b></i>)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
-</div>
-</details>
+[//]: # (</summary>)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # (</details>)
 
 ####
 
