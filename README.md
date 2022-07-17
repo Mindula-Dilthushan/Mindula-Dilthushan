@@ -54,6 +54,11 @@
 
 <div>
 
+
+#### Workflows stats badge
+[![pages-build-deployment](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment)
+
+
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
 </div>
@@ -311,6 +316,3 @@ Click And View 😇
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-
-[comment]: <> (Testing Area-------------------------------------------------------------------------------------------------------------------)
