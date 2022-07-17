@@ -1,10 +1,14 @@
+[//]: # (Mindula Dilthushan Manamperi)
+[//]: # (minduladilthushan1@gmail.com)
+[//]: # (22.07.17)
+
+[//]: # (contents -----------------------------------------------------------------------------------------------------)
+
 <div align="center">
 
-[//]: # (<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px"> )
-
-### Hi there , I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
-
+### Hi there  <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 </div>
+
 
 <div align="center"> 
 
@@ -26,6 +30,7 @@
 
 - Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
 - My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
+- Reading [Software Engineering (Top-up) - BEng (Hons)]()👨‍🎓
 - Graduate in [**Software Engineering**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
   at [IJSE](https://www.ijse.lk/) 👨‍🎓
 - Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
@@ -37,11 +42,6 @@
 - Completed at [**Certificate in Graphic Design**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
   in [SITEC](https://www.sitec.lk/) 👨‍🎓
 - Proud to be [**Rahula**](https://rahulacollege.lk/) 💙🧡
-- Programming Skills : ***Java, Python, HTML, CSS, Bootstrap, PHP, JavaScript, Spring, SpringBoot, NodeJS, NextJS,
-  ElectronJs, ReactJS, React Native, Flutter, Angular, Typescript, Docker, Laravel, Vue, Redux, Vite, MySQL, MongoDB,
-  PostgreSQL***
-- Design Skills : ***AdobeXD, Figma, AdobePS, Indesign, Illustrator, After Effect, Premiere Pro, Lightroom, Corel
-  Draw***
 - How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My
   WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
 - Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
@@ -77,13 +77,13 @@
   Profile 3D Contributions 🔰
 </h3>
 
-<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/profile-3d-contrib/profile-night-rainbow.svg"/>
+![profile 3d](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev_shan/profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 <h3 align="center">
 Github Stats 🧐
 </h3>
-
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
@@ -128,54 +128,17 @@ Click And View 😇
 </h3>
 
 <details>
-<summary> <i><b>Tools 🛠</b></i>
-</summary>
-<div align="center">
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00614A)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=00614A)
-
-</div>
-</details>
-
-####
-
-<details>
-<summary> <i> <b>Top Languages Repo and Commit Details 🎉 </b></i> </summary>
-<div align="center">
-
-![topLan1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mindula-Dilthushan&theme=github_dark)
-![topLan2](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mindula-Dilthushan&theme=github_dark)
-
-</div>
-</details>
-
-####
-
-<details>
-<summary> <i><b>All Trophies 🏆 </b></i>
+<summary> <i>All Trophies 🏆 </i>
 </summary>
 
-<div align="center">
+![trophys](https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan&margin-w=15&margin-h=10)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
-</div>
 </details>
 
 ####
 
 <details>
-<summary> <i><b>Most Used Languages 🎏 </b></i>
-</summary>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindula-Dilthushan&langs_count=8&theme=gotham"/>
-</div>
-</details>
-
-####
-
-<details>
-<summary> <i><b>Programming Languages 🖥 </b></i>
+<summary> <i>Programming Languages 🖥 </i>
 </summary>
 <div>
 
@@ -200,7 +163,7 @@ Click And View 😇
 ####
 
 <details>
-<summary> <i><b>Frontend Development 🖥 </b></i>
+<summary> <i>Frontend Development 🖥 </i>
 </summary>
 <div>
 
@@ -224,7 +187,7 @@ Click And View 😇
 ####
 
 <details>
-<summary> <i><b>Backend Development 🖥 </b></i>
+<summary> <i> Backend Development 🖥 </i>
 </summary>
 <div>
 
@@ -245,7 +208,7 @@ Click And View 😇
 ####
 
 <details>
-<summary> <i><b>Mobile App Development 📱 </b></i>
+<summary> <i>Mobile App Development 📱 </i>
 </summary>
 <div>
 
@@ -254,12 +217,12 @@ Click And View 😇
 </div>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="37" height="37"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="35" height="35"/>
+[![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&labelColor=black&logo=Android&logoColor=3DDC84)](#)
+[![React Native Badge](https://img.shields.io/badge/-react_native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-1fbcfd?style=for-the-badge&labelColor=black&logo=flutter&logoColor=1fbcfd)](#)
+[![Dart Badge](https://img.shields.io/badge/-Dart-29b6f6?style=for-the-badge&labelColor=black&logo=dart&logoColor=29b6f6)](#)
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&labelColor=black&logo=Kotlin&logoColor=7f52ff)](#)
+[![Ionic Badge](https://img.shields.io/badge/-Ionic-498AFF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=498AFF)](#)
 
 </div>
 </details>
@@ -267,7 +230,7 @@ Click And View 😇
 ####
 
 <details>
-<summary> <i><b>Database 🛢 </b></i>
+<summary> <i>Database 🛢 </i>
 </summary>
 <div>
 
@@ -276,111 +239,23 @@ Click And View 😇
 </div>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+[![Badge](https://img.shields.io/badge/-mysql-00758f?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758f)](#)
+[![Badge](https://img.shields.io/badge/-mongodb-3FA037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3FA037)](#)
+[![Badge](https://img.shields.io/badge/-mariadb-787177?style=for-the-badge&labelColor=black&logo=mariadb&logoColor=787177)](#)
+[![Badge](https://img.shields.io/badge/-postgresql-0064a5?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=0064a5)](#)
+
 
 </div>
 </details>
 
-####
+##
 
-<details>
-<summary> <i><b>Data Visualization 📊 </b></i>
-</summary>
-<div>
 
-####
-
-</div>
-<div align="center">
-
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
-
-</div>
-</details>
-
-####
-
-<details>
-<summary> <i><b>Backend as a Service 🖥 </b></i>
-</summary>
-<div>
-
-####
-
-</div>
-<div align="center">
-
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-
-</div>
-</details>
-
-####
-
-<details>
-<summary> <i><b>Framework 🖥 </b></i>
-</summary>
-<div>
-
-####
-
-</div>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-
-</div>
-</details>
-
-####
-
-<details>
-<summary> <i><b>Software ⚙ </b></i>
-</summary>
-<div>
-
-####
-
-</div>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-
-</div>
-</details>
-
-####
-
-<details>
-<summary> <i><b>Game Engines 🎮 </b></i>
-</summary>
-<div>
-
-####
-
-</div>
-<div align="center">
-
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-
-</div>
-</details>
-
-<h3 align="center">
-Where to find me 🤙
-</h3>
+<p align="center"> 
+<b>
+  Where to find me 🤙
+</b>
+</p>
 <div align="center">
 
 [<img height="29" src = "https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -418,21 +293,11 @@ Where to find me 🤙
 
 [Medium]:https://medium.com/@minduladilthushan
 
-
-
-<div align="center">
-
-#### ⭐ Hope someone finds this helpful someday...! 😉 [© K S Vithanage All Rights Reserved](https://github.com/sanuv9683)
-
-</div>
-
-<h4 align="center">
-𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
-𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
-
-[//]: # (<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">)
-
-</h4>
+<p align="center">
+<b>
+  Repo Details 🤙
+</b>
+</p>
 
 <div align="center">
 
@@ -443,13 +308,13 @@ Where to find me 🤙
 
 </div>
 
-<div align="center">
-<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
+<h4 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
 
-GitHub Readme Profile Styles here ! ✌
+<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
 
-</a>
-</div>
+</h4>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
@@ -558,4 +423,3 @@ GitHub Readme Profile Styles here ! ✌
 
 [//]: # ()
 
-[//]: # (-->)
