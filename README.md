@@ -51,9 +51,7 @@
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
 </div>
 
-
 <div>
-
 
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
@@ -290,18 +288,6 @@ Click And View 😇
 
 <p align="center">
 <b>
-  Workflows stats badges 🤙
-</b>
-</p>
-
-<div align="center">
-
-[![pages-build-deployment](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment)
-
-</div>
-
-<p align="center">
-<b>
   Repo Details 🤙
 </b>
 </p>
@@ -322,6 +308,8 @@ Click And View 😇
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
 
 </h4>
+
+[![pages-build-deployment](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
