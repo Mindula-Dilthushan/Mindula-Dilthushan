@@ -1,4 +1,4 @@
-~~[//]: # (Mindula Dilthushan Manamperi)
+[//]: # (Mindula Dilthushan Manamperi)
 [//]: # (minduladilthushan1@gmail.com)
 [//]: # (22.07.17)
 
