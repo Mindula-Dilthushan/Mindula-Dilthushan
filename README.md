@@ -1,4 +1,4 @@
-[//]: # (Mindula Dilthushan Manamperi)
+~~[//]: # (Mindula Dilthushan Manamperi)
 [//]: # (minduladilthushan1@gmail.com)
 [//]: # (22.07.17)
 
@@ -73,6 +73,16 @@
 
 <div align="center">
 
+---
+
+<h3 align="center">
+  Profile Trophy 😜
+</h3>
+
+![trophys](https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan&margin-w=15&margin-h=10)
+
+---
+
 <h3 align="center">
   Profile 3D Contributions 🔰
 </h3>
@@ -84,11 +94,6 @@
 Github Stats 🧐
 </h3>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mindula-Dilthushan"/>
-
-</div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
 
@@ -554,4 +559,4 @@ GitHub Readme Profile Styles here ! ✌
 
 [//]: # ()
 
-[//]: # (-->)
+[//]: # (-->)~~
