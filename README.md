@@ -301,9 +301,20 @@ Click And View 😇
 
 </div>
 
+<p align="center">
+<b>
+  Workflows status badges 🤖
+</b>
+</p>
+
+<div align="center">
+
 [![pages-build-deployment](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment)
 [![Generate Snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/snake.yml/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/snake.yml)
 [![GitHub-Profile-3D-Contrib](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/profile-3d.yml)
+
+</div>
+
 
 <h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
