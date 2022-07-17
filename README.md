@@ -301,6 +301,10 @@ Click And View 😇
 
 </div>
 
+[![pages-build-deployment](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment)
+[![Generate Snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/snake.yml/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/snake.yml)
+[![GitHub-Profile-3D-Contrib](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/profile-3d.yml)
+
 <h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
@@ -308,8 +312,6 @@ Click And View 😇
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
 
 </h4>
-
-[![pages-build-deployment](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/actions/workflows/pages/pages-build-deployment)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
