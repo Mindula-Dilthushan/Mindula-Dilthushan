@@ -77,7 +77,8 @@
   Profile 3D Contributions 🔰
 </h3>
 
-<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/profile-3d-contrib/profile-night-rainbow.svg"/>
+![profile 3d](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/dev_shan/profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 <h3 align="center">
