@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: mindula-dilthushan
+          user: Mindula-Dilthushan
           template: classic
           config_timezone: Asia/Colombo
           plugin_achievements: yes
