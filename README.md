@@ -24,7 +24,7 @@
 
 - Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
 - My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
-- Studying [**BEng (Hons)Software Engineering (Top-Up)** in **London Metropolitan University**](https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/)👨‍🎓
+- Studying [**BEng (Hons) Software Engineering (Top-Up)** in **London Metropolitan University**](https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/)👨‍🎓
 - Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
   in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
 - Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
