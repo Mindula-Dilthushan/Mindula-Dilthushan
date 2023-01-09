@@ -77,8 +77,9 @@
 Github Stats 🧐
 </h3>
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+  </p>
 
 <div align="center">
 <details>
@@ -86,8 +87,10 @@ Github Stats 🧐
 </summary>
 <div align="center">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
-
+  <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+  </p>
+  
 </div>
 </details>
 
