@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/15.jpg)
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/DSC_3478.jpg)
 </div>
 
 
