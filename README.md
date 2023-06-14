@@ -21,10 +21,10 @@
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/DSC_3478.jpg)
 </div>
 
-- Works at [eBuilder Sri Lanka](https://www.ebuildersecurity.com/)
 - Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
+- Works at [eBuilder Sri Lanka](https://www.ebuildersecurity.com/)
 - My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
-- Studying [**BEng (Hons) Software Engineering (Top-Up)** in **London Metropolitan University**](https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/)👨‍🎓
+- BEng (Hons) Software Engineering (Top-Up) in [*London Metropolitan University*](https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/)👨‍🎓
 - Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
   in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
 - Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
@@ -61,7 +61,7 @@
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important;"></a>
 
 
-![GitHub metrics](https://metrics.lecoq.io/Mindula-Dilthushan)
+[//]: # (![GitHub metrics]&#40;https://metrics.lecoq.io/Mindula-Dilthushan&#41;)
 
 <div align="center">
 
@@ -244,6 +244,8 @@ Click And View 😇
 </details>
 
 
+
+
 <p align="center"> 
 <b>
   Where to find me 🤙
@@ -328,3 +330,5 @@ Click And View 😇
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+
