@@ -3,7 +3,6 @@
 ### Hi there  <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">, I am M!ℵᖱṳℓᾰ D!ℓтℏṳṧℏᾰℵ.
 </div>
 
-
 <div align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=250&lines=Software+Designer;Developer;UI%2FUX++Designer;Gamer;Photographer;Youtuber)](https://git.io/typing-svg)
@@ -14,7 +13,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mindula-Dilthushan}/count.svg)
 </div>
-
 
 <div align="center">
 
@@ -51,7 +49,6 @@
 
 <div>
 
-
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
 </div>
@@ -59,7 +56,6 @@
 ***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
 
 <a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important;"></a>
-
 
 [//]: # (![GitHub metrics]&#40;https://metrics.lecoq.io/Mindula-Dilthushan&#41;)
 
@@ -117,7 +113,7 @@ Github Stats 🧐
 ![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/red-alpha/github-contribution-grid-snake.svg)
 </div>
 
-
+<!--
 <h3 align="center">
 Click And View 😇
 </h3>
@@ -243,8 +239,7 @@ Click And View 😇
 </div>
 </details>
 
-
-
+-->
 
 <p align="center"> 
 <b>
