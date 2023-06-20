@@ -19,10 +19,10 @@
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/DSC_3478.jpg)
 </div>
 
-- Founder at [Alpha X Software Company](https://www.facebook.com/alphaxsoftwarecompany) 🤴
-- Works at [eBuilder Sri Lanka](https://www.ebuildersecurity.com/)
-- My primary coding language : [Java](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
-- BEng (Hons) Software Engineering (Top-Up) in [*London Metropolitan University*](https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/)👨‍🎓
+- Founder at [**Alpha X Software Company**](https://www.facebook.com/alphaxsoftwarecompany) 🤴
+- Works at [**eBuilder Sri Lanka**](https://www.ebuildersecurity.com/)
+- My primary coding language : [**Java**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
+- BEng (Hons) Software Engineering (Top-Up) in [**London Metropolitan University**](https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/)👨‍🎓
 - Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
   in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
 - Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
@@ -38,26 +38,30 @@
 
 <div align="center">
 
-### My Portfolio Website : [minduladilthushan](https://minduladilthushan.netlify.app/)  🔍
-
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
 </div>
 
 <div align="center">
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
-</div>
-
-<div>
-
-## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
+## My Portfolio Website : [minduladilthushan](https://minduladilthushan.netlify.app/)  🔍
 
 </div>
 
-***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
+<details>
+<summary> <h3> GitHub Metrics 🌌 </h2>
+</summary>
+<div align="center">
+  
+  <p align="center"> 
+    
+![Metrics](https://metrics.lecoq.io/Mindula-Dilthushan?template=classic&followup=1&people=1&lines=1&stargazers=1&languages=1&isocalendar=1&introduction=1&repositories=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FColombo)
 
-<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important;"></a>
+  
+  </p>
+  
+</div>
+</details>
 
-[//]: # (![GitHub metrics]&#40;https://metrics.lecoq.io/Mindula-Dilthushan&#41;)
 
 <div align="center">
 
@@ -101,11 +105,13 @@ Github Stats 🧐
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mindula-Dilthushan&theme=github_dark"/>
 </div>
 
+<!-- 
 <p align="center"> 
 
 [![Mindula-Dilthushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham)](https://github.com/Mindula-Dilthushan/github-readme-activity-graph&theme=github)
 
 </p>
+-->
 
 <div align="center">
 
@@ -240,6 +246,15 @@ Click And View 😇
 </details>
 
 -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
+
+<a href="https://www.buymeacoffee.com/mindula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important; margin: 0!important"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="center"> 
 <b>
