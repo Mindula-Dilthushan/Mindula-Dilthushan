@@ -84,7 +84,7 @@ Github Stats 🧐
 
 <div align="center">
 <details>
-<summary> 2022 GitHub Commits
+<summary> 2023 GitHub Commits
 </summary>
 <div align="center">
 
