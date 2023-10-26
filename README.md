@@ -20,10 +20,10 @@
 ![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/DSC_3478.jpg)
 </div>
 
-- Founder at [**Alpha X Software Company**](https://www.facebook.com/alphaxsoftwarecompany) 🤴
+- Founder at [**AlpheXa-Labs**](https://www.facebook.com/alphexa.labs) 🤴
 - Works at [**eBuilder Sri Lanka**](https://www.ebuildersecurity.com/)
 - My primary coding language : [**Java**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan) 🧒
-- B.Eng (Hons) Software Engineering (Top-Up) in [**London Metropolitan University**](https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/)👨‍🎓
+- Officially Graduated With a B.Eng (Hons) in Software Engineering from [**London Metropolitan University.**](https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/)👨‍🎓
 - Completed at [**Cisco Certified Network Associate (CCNA)**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
   in [WinSYS Networks](https://winsys.lk/) 👨‍🎓
 - Completed at [**Certificate in Ethical Hacking**](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan)
@@ -35,7 +35,7 @@
 - Proud to be [**Rahula**](https://rahulacollege.lk/) 💙🧡
 - How to reach me : [minduladilthushan1@gmail.com](https://mail.google.com/) and ⚡ My
   WhatsApp : [+94 74 1900 680](https://wa.me/0741900680)
-- Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)
+- Contact Me : [ You want Contact me ? 📞 ](https://mindula-dilthushan.github.io/Contact-Me/)]
 
 <div align="center">
 
