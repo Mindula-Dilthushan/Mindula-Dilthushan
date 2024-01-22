@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/DSC_3478.jpg)
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/cover1.png)
 </div>
 
 - Founder at [**AlpheXa-Labs**](https://www.facebook.com/alphexa.labs) 🤴
