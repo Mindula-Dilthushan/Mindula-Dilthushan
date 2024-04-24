@@ -62,8 +62,6 @@
 </div>
 </details>
 
-
-
 <div align="center">
 
 <h3 align="center">
@@ -84,7 +82,7 @@ Github Stats 🧐
 
 <div align="center">
 <details>
-<summary> 2023 GitHub Commits
+<summary> 2024 GitHub Commits
 </summary>
 <div align="center">
 
@@ -105,15 +103,6 @@ Github Stats 🧐
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mindula-Dilthushan&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mindula-Dilthushan&theme=github_dark"/>
 </div>
-
-
-[//]: # (<p align="center"> )
-
-[//]: # ()
-[//]: # ([![Mindula-Dilthushan's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Mindula-Dilthushan&theme=gotham&#41;]&#40;https://github.com/Mindula-Dilthushan/github-readme-activity-graph&theme=github&#41;)
-
-[//]: # ()
-[//]: # (</p>)
 
 
 <div align="center">
