@@ -51,9 +51,14 @@
 
 </div>
 
+<div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Mindula-Dilthushan.svg)](https://user-badge.committers.top/sri_lanka_private/Mindula-Dilthushan)
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Mindula-Dilthushan.svg)](https://user-badge.committers.top/sri_lanka_private/Mindula-Dilthushan)
 
+</div>
+
+
+<!-- 
 
 <details>  
 <summary> <h3> GitHub Metrics 🌌 </h3>  
@@ -68,6 +73,8 @@
 
 </div>
 </details>
+
+-->
 
 <div align="center">
 
